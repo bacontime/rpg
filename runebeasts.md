@@ -3,6 +3,7 @@ title: Twelve Beasts of Creation
 description: Twelve giant monsters which embody the elements and can be petitioned for superpowers.
 ---
 
+#  Twelve Beasts of Creation
 
 Element  | zodiac  |  symbols | method
 ---|---|---|---
@@ -18,3 +19,21 @@ Dense  | monkey, virgo  | 🐒♍👧🦧🗿  | caution, preperation
 Wet  | snake,  scorpio | 🐍♏🦂🌊  | sensitivity, hunt
 Dark  | dog, cancer  |  🐕♋🦀🌕🌊 | moon, emotion, cult
 Cold  | goat, pisces  | 🐐♓🐟✝️🌊  | empathy, sacrifice
+
+
+## Nergal
+
+
+
+
+
+
+
+
+
+
+
+## The Scapegoat
+
+https://www.artstation.com/artwork/rRymVE
+
