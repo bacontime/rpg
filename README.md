@@ -1,3 +1,3 @@
 # rpg
 
-[Periodic Table elemental planes](\etymologyplanes)
+[Periodic Table elemental planes](etymologyplanes)
