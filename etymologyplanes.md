@@ -3,12 +3,61 @@ title: Etymological Elemental Planes
 description: Elemental planes, but adjusted to include things that are only linguistically related.
 ---
 
-Worldbuilding activity: 
+Brainstorming activity: 
 
-Take a pure element. Build an elemental plane out of that element. 
-To mix things up, give the plane additional features via word association.
+Take a pure chemical element. Build an elemental plane out of that element. 
+Then to mix things up, give the plane additional features via [etymological](https://en.wikipedia.org/wiki/List_of_chemical_element_name_etymologies) word association.
+
+A few [random](https://randomlistgenerator.com/periodic-table-of-elements) examples after the break:
 
 <!--More-->
+
+## The Plane of Antimony
+
+### 
+
+*possible etymology: antimonos - against solitude*
+
+
+###
+
+*possible etymology: anthímónion - floret*
+
+
+###
+
+*folk etymology: antimoine - monk's bane*
+
+
+###
+
+*symbol Sb - from "Stibium", referring to [ancient Egyptian eyeliner.](https://en.wikipedia.org/wiki/Kohl_(cosmetics))*
+
+
+
+
+
+
+
+
+
+
+## The Plane of Sodium
+
+
+
+
+Dubnium
+Carbon 
+Neon
+
+
+
+
+
+
+
+
 
 ## Motivation
 
