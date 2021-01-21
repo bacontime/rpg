@@ -17,7 +17,8 @@ Properties
 More paragraphs with various thoughts about the stuff.
 
 
-
+1. TOC
+{:TOC}
 
 
 
@@ -28,17 +29,21 @@ More paragraphs with various thoughts about the stuff.
 ## Skywood
 <!--Still, Dark, Subtle-->
 Appearance
-: A dark hard wood. Like blue-tinged ebony. Grows on the highest mountaintops, precipitating from the air in towering gnarled thickets of thorny, barkless, leafless "trees".
+: A dark hard wood. Like blue-tinged ebony. 
 
 Properties
-: Very dense, yet bouyant in the air. High inertia, low weight.
+: Very dense, yet bouyant in the air. High inertia, low weight. Incredibly resiliant.
 
 ### Skywood thickets
-Skywood grows on the highest mountaintops, precipitating from the air in towering gnarled thickets of thorny, leafless "trees".
+Skywood grows on the highest mountaintops, precipitating from the air in towering tangled thickets of thorny, leafless "trees".
 Because the wood is so tough and unfettered by the pull of gravity, 
 the trees can grow to colossal heights, 
 making a giant redwood look like a sapling by comparison.
 Without leaves, it takes many thousands of years for the skywood to grow to such heights.
+
+<!--The thickets are frequently struck by lightning, 
+but skywood trees are able to harmlessly conduct lightning through their branches.
+Best not to stand near one in a storm.-->
 
 ### Floating islands
 Some thickets are dense and bouyant enough that they lift off into the air,
@@ -47,18 +52,36 @@ These floating islands are surprisingly stable.
 The root networks are dense in more ways than one, 
 and the supernatural inertia of the skywood helps temper the rage of the wind.
 
-These floating islands can be sanctuaries to birds and insects. 
+These floating islands act as sanctuaries to birds and insects. 
 More complex mini-ecosystems can develop if the island drifts close enough to the ground to pick up additional flora and fauna.
-One such island was famously observed to be populated with a large number of cats.
-Some islands, after drifting close enough to the ground, pick up a host of passengers.
-even host complex ecosystems, full of other plants and small land creatures, 
+One such island was famously discovered to be populated with a large number of cats,
+which were later determined to all be the descendents of a single breeding pair 
+that hitched a ride on a hot-air-balloon visit to the island several decades prior.
 
 ### Attempts at cultivation
 Skywood can be propagated from live cuttings, 
 and some attempts have been made to cultivate the substance.
-The most effective methods consists of planting many thousands of tiny trees, 
+The most effective methods consists of planting many thousands of tiny trees in vertical racks, 
 and breaking them down into news cuttings as soon as they reach any notable size.
-Special systems of weights are used to prevent entire fields from 
+Special systems of weights and anchors are used to prevent entire farms from lifting up into the air.
+Even then, it takes decades of growth to get usable amounts of wispy-thin skywood branches.
+
+For practical applications, these skywood cuttings are typically woven into resiliant wicker panels.
+Sometimes the wood is also shredded and used in composite materials, 
+though this weakens its magical properties.
+
+### Poaching
+To get thicker solid pieces of skywood would require either 
+cultivating it for many centuries or
+harvesting it from an ancient wild specimen.
+Many ancient skywood thickets have been sadly lost to poaching in recent years.
+The remaining specimens are either so high and remote that it's perilous to even get to them, or 
+are under the protection of some local authority.
+
+Farming the wood for so long is difficult, 
+as it is rare for a land to remain unconquered and untroubled by bandits for unbroken centuries.
+Nevertheless, there is a sect of monks who maintain an ancient skywood 
+
 
 
 
