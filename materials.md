@@ -24,7 +24,7 @@ More paragraphs with various thoughts about the stuff.
 # Ur substances
 
 ## Skywood
-<!--Still, Dark, Subtle-->
+<!--Dark, Subtle, Still-->
 Appearance
 : A dark hard wood. Like blue-tinged ebony. 
 
@@ -55,7 +55,7 @@ One such island was famously discovered to be populated with a large number of c
 which were later determined to all be the descendents of a single breeding pair 
 that hitched a ride on a hot-air-balloon visit to the island several decades prior.
 
-### Attempts at cultivation
+### Attempts at silvaculture
 Skywood can be propagated from live cuttings, 
 and some attempts have been made to cultivate the substance.
 The most effective methods consists of planting many thousands of tiny trees, 
@@ -111,6 +111,193 @@ Of the five Immovable Staves gifted to Emperor Billy the Magnanimous:
 
 
 
+
+## ?
+<!--Subtle, Still, Dry-->
+Appearance
+: description
+
+Properties
+: description
+
+### Other notes
+Expounding on these notes
+
+
+
+
+
+
+
+## ?
+<!--Still, Dry, Hard-->
+Appearance
+: description
+
+Properties
+: description
+
+### Other notes
+Expounding on these notes
+
+
+
+
+
+
+
+## ?
+<!--Dry, Hard, Bright-->
+Appearance
+: description
+
+Properties
+: description
+
+### Other notes
+Expounding on these notes
+
+
+
+
+
+
+
+
+
+
+## ?
+<!--Hard, Bright, Dense-->
+Appearance
+: description
+
+Properties
+: description
+
+### Other notes
+Expounding on these notes
+
+
+
+
+
+
+
+
+
+
+## ?
+<!--Bright, Dense, Active-->
+Appearance
+: description
+
+Properties
+: description
+
+### Other notes
+Expounding on these notes
+
+
+
+
+
+
+
+
+
+
+## ?
+<!--Dense, Active, Wet-->
+Appearance
+: description
+
+Properties
+: description
+
+### Other notes
+Expounding on these notes
+
+
+
+
+
+
+
+
+
+
+## ?
+<!--Active, Wet, Soft-->
+Appearance
+: description
+
+Properties
+: description
+
+### Other notes
+Expounding on these notes
+
+
+
+
+
+
+
+
+
+
+## ?
+<!--Wet, Soft, Dark-->
+Appearance
+: description
+
+Properties
+: description
+
+### Other notes
+Expounding on these notes
+
+
+
+
+
+
+
+
+
+
+## ?
+<!--Soft, Dark, Subtle-->
+Appearance
+: description
+
+Properties
+: description
+
+### Other notes
+Expounding on these notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ---
 phone drafts below
 
