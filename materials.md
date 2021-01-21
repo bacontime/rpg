@@ -20,6 +20,13 @@ More paragraphs with various thoughts about the stuff.
 1. TOC
 {:TOC}
 
+Manual ToC
+
+- [Skywood](#Skywood)
+- ?
+- ?
+- [Adamant Glass](#Adamant-Glass)
+
 
 # Ur substances
 
@@ -146,7 +153,7 @@ Expounding on these notes
 
 
 
-## ?
+## Adamant Glass
 <!--Dry, Hard, Bright-->
 Appearance
 : description
