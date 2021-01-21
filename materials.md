@@ -36,7 +36,7 @@ Appearance
 : A dark hard wood. Like blue-tinged ebony. 
 
 Properties
-: Very dense, yet bouyant in the air. High inertia, low weight. Incredibly resiliant.
+: Very dense, yet bouyant in the air. High inertia, low weight. Resiliant.
 
 ### Skywood thickets
 Skywood grows on the highest mountaintops, precipitating from the air in towering tangled thickets of thorny, leafless "trees".
