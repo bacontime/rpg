@@ -21,10 +21,7 @@ More paragraphs with various thoughts about the stuff.
 {:TOC}
 
 
-
-
 # Ur substances
-
 
 ## Skywood
 <!--Still, Dark, Subtle-->
@@ -61,10 +58,11 @@ that hitched a ride on a hot-air-balloon visit to the island several decades pri
 ### Attempts at cultivation
 Skywood can be propagated from live cuttings, 
 and some attempts have been made to cultivate the substance.
-The most effective methods consists of planting many thousands of tiny trees in vertical racks, 
-and breaking them down into news cuttings as soon as they reach any notable size.
-Special systems of weights and anchors are used to prevent entire farms from lifting up into the air.
-Even then, it takes decades of growth to get usable amounts of wispy-thin skywood branches.
+The most effective methods consists of planting many thousands of tiny trees, 
+and pollarding them as soon as they reach any notable size.
+Such farms are said to look like bristly paintbrushes sticking up out of the ground, 
+and require special systems of weights and anchors to prevent the entire field from lifting up into the air.
+Even with this effort, it takes decades of growth to get usable amounts of wispy-thin skywood branches.
 
 For practical applications, these skywood cuttings are typically woven into resiliant wicker panels.
 Sometimes the wood is also shredded and used in composite materials, 
@@ -75,13 +73,37 @@ To get thicker solid pieces of skywood would require either
 cultivating it for many centuries or
 harvesting it from an ancient wild specimen.
 Many ancient skywood thickets have been sadly lost to poaching in recent years.
-The remaining specimens are either so high and remote that it's perilous to even get to them, or 
+Those remaining are either so high and remote that it's perilous to even get to them, or 
 are under the protection of some local authority.
 
-Farming the wood for so long is difficult, 
+Farming the wood for so long is a difficult proposition, 
 as it is rare for a land to remain unconquered and untroubled by bandits for unbroken centuries.
-Nevertheless, there is a sect of monks who maintain an ancient skywood 
+And the short-term rewards of selling off a wealth of skywood sticks 
+incentivize pillagers to just rip up the entire farm.
 
+### Immovable Rods
+Nevertheless, there is a cabal of monks who maintain an ancient skywood grove somewhere in the mountains to the north.
+They take great care to obfuscate the true location of their monastery, 
+and sell a very small quantity of fabulously valuable skywood logs once every decade.
+They also harbor the secret of augmenting the wood's magic to create *Immovable Rods*.
+
+Immovable Rods aren't actually immovable of course. When activated, the rod is temporarily stilled, 
+and then by some unknown arcane process, the skywood's weightless inertia is amplified. 
+It's not that an Immovable Rod hangs in the air, 
+so much as it is that the meager weight of the rod itself (or a human hanging on to the rod, or an elephant, or...)
+can only imperceptibly accelerate the device.
+
+If an Immovable Rod is kept activated, 
+and a steady pressure is applied over the course of weeks, 
+it can reach visible speeds.
+This renders the rod into a slow but devastating siege weapon.
+Of the five Immovable Staves gifted to Emperor Billy the Magnanimous: 
+- One is deep underground, having finally splintered after shattering the bedrock,
+- two are lost to the heavens,
+- one has come to a stop underwater, 20 miles out to sea,
+- and the final stave is kept in the royal treasury in an iron box, bolted shut.
+
+![Stop goofing around! Those are dangerous!](https://upload.wikimedia.org/wikipedia/en/9/9d/Wands05.jpg)
 
 
 
