@@ -65,6 +65,19 @@ https://www.artstation.com/artwork/rRymVE
 
 ## General Coorespondences of above
 
+color | type | critter
+---|---|---
+yellow | celestial | birds
+purple ||
+green | goblinoids |
+blue | chimeras |
+||
+||
+
+
+
+
+
 Inspired by [this table of correspondences](http://epicsavingthrow.com/dnd/planescape_planes.htm)
 
 
