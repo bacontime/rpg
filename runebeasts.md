@@ -46,20 +46,20 @@ https://www.artstation.com/artwork/rRymVE
 
 ## Rearranged table, with 4-way symettry.
 
-| Element | EZodiac | CElement | WZodiac           |                      | method                      | color |   |
-|---------|---------|----------|-------------------|----------------------|-----------------------------|-------|---|
-| Hot     | Rat     | Fire     | Sagittarius, fire |                      | plague, willpower, survival |       |   |
-| Bright  | Rooster | Fire     | Aries, fire       |                      | Assertion, witness          |       |   |
-| Dry     | Tiger   | Fire     | Leo, fire         |                      | drive, hunt                 |       |   |
-| Subtle  | Pig     | Air      | Gemini, air       |                      | communication, bargaining   |       |   |
-| Soft    | Rabbit  | Water    |                   | Rabbit, Libra, air   | conceptualization, balance  |       |   |
-| Quick   | Horse   | Air      | aquarius, air     |                      | socialization, appreciation |       |   |
-| Slow    | Ox      | Earth    | taurus, earth     |                      | material world, patience    |       |   |
-| Hard    | Dragon  | Earth    | capricorn, earth  |                      | practicality, mercenary     |       |   |
-| Dense   | Monkey  | Water    |                   | monkey, virgo, earth | caution, preperation        |       |   |
-| Wet     | Snake   | Water    | scorpio, water    |                      | sensitivity, hunt           |       |   |
-| Dark    | Dog     | Earth    |                   | dog, cancer, water   | moon, emotion, cult         |       |   |
-| Cold    | Goat    | Air      |                   | goat, pisces, water  | empathy, sacrifice          |       |   |
+| Element | EZodiac | CElement | WZodiac           |   | method                      | color |   |
+|---------|---------|----------|-------------------|---|-----------------------------|-------|---|
+| Hot     | Rat     | Fire     | Sagittarius, fire |   | plague, willpower, survival |       |   |
+| Bright  | Rooster | Fire     | Aries, fire       |   | Assertion, witness          |       |   |
+| Dry     | Tiger   | Fire     | Leo, fire         |   | drive, hunt                 |       |   |
+| Subtle  | Pig     | Air      | Gemini, air       |   | communication, bargaining   |       |   |
+| Soft    | Rabbit  | Water    | pisces, water     |   | empathy, sacrifice          |       |   |
+| Quick   | Horse   | Air      | aquarius, air     |   | socialization, appreciation |       |   |
+| Slow    | Ox      | Earth    | taurus, earth     |   | material world, patience    |       |   |
+| Hard    | Dragon  | Earth    | capricorn, earth  |   | practicality, mercenary     |       |   |
+| Dense   | Monkey  | Water    | cancer, water     |   | moon, emotion, cult         |       |   |
+| Wet     | Snake   | Water    | scorpio, water    |   | sensitivity, hunt           |       |   |
+| Dark    | Dog     | Earth    | virgo, earth      |   | caution, preperation        |       |   |
+| Cold    | Goat    | Air      | Libra, air        |   | conceptualization, balance  |       |   |
 
 
 
