@@ -52,12 +52,12 @@ https://www.artstation.com/artwork/rRymVE
 | Bright  | Rooster | Fire     | Aries, fire       |   | Assertion, witness          | white  |
 | Dry     | Tiger   | Fire     | Leo, fire         |   | drive, hunt                 | yellow |
 | Subtle  | Pig     | Air      | Gemini, air       |   | communication, bargaining   | pink   |
-| Soft    | Rabbit  | Water    | pisces, water     |   | empathy, sacrifice          | cyan   |
+| Soft    | Rabbit  | Water    | pisces, water     |   | empathy, sacrifice          | blue   |
 | Quick   | Horse   | Air      | aquarius, air     |   | socialization, appreciation | red    |
 | Slow    | Ox      | Earth    | taurus, earth     |   | material world, patience    | brown  |
 | Hard    | Dragon  | Earth    | capricorn, earth  |   | practicality, mercenary     | grey   |
-| Dense   | Monkey  | Water    | cancer, water     |   | moon, emotion, cult         | blue   |
-| Wet     | Snake   | Water    | scorpio, water    |   | sensitivity, hunt           | green  |
+| Dense   | Monkey  | Water    | cancer, water     |   | moon, emotion, cult         | green  |
+| Wet     | Snake   | Water    | scorpio, water    |   | sensitivity, hunt           | teal   |
 | Dark    | Dog     | Earth    | virgo, earth      |   | caution, preperation        | black  |
 | Cold    | Goat    | Air      | Libra, air        |   | conceptualization, balance  | purple |
 
