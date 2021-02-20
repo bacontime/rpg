@@ -27,9 +27,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="119.85139"
-     inkscape:cx="147.78364"
-     inkscape:zoom="0.98994949"
+     inkscape:cy="105.4063"
+     inkscape:cx="184.88644"
+     inkscape:zoom="1.4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -708,5 +708,28 @@
        d="m 187.32689,160.0932 c -0.73262,-0.83295 -2.07755,-0.54869 -3.08963,-0.74306 -1.04185,0.008 -2.59074,-0.52225 -2.91004,0.87196 -0.14591,0.90591 -0.68401,1.62431 -1.53197,1.97735 -0.88411,0.49119 -1.94617,0.35531 -2.91208,0.31334 -1.13483,-0.2534 -1.53598,-1.48409 -2.34377,-2.1627 -0.83285,-0.29417 -1.77704,-0.0612 -2.58286,0.24651 l -0.0792,0.0634"
        id="path1015"
        inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.671;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1019"
+       width="7.7508163"
+       height="27.261492"
+       x="9.9907722"
+       y="112.15007" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.31475854;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="rect833-7-9-8-30-4"
+       width="19.685242"
+       height="39.685242"
+       x="-27.952454"
+       y="-147.83484"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.31475854;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="rect833-7-9-8-30-4-5"
+       width="19.685242"
+       height="39.685242"
+       x="-89.607384"
+       y="125.82652"
+       transform="rotate(-90)" />
   </g>
 </svg>
