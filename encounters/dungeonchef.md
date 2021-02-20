@@ -18,7 +18,7 @@ For GMs:
 1. Have the players enter the room some distance away from the hag.
 2. Describe the room. (See Description section)
 3. Make it clear that the Hag won't attack if not provoked.
-4. Let the PCs decide what to do. (See Interactions section)
+4. Turn over control of situation to players. (See Interactions section)
 
 
 
@@ -27,13 +27,14 @@ For GMs:
 
 20ft x 40 ft dungeon room
 
-![](dungeonchef-map.svg)
 
 Worn-down chamber with ***cracked and leaky walls***.
 A ***small cooking fire*** at the far end of the room, filling the the air with ***acrid smoke***. 
 Two figures near the fire: one ***hunched over and stirring***; the other ***bound in rope***.
 
 When you enter, the first figure acknowledges your presence. "Ah, it looks like we have visitors", she cackles. Then returns to stirring her bubbling brew. 
+
+![](dungeonchef-map.svg)
 
 Cracked and leaky walls
 : A trickle of water is coming into the room through cracked, mossy stone walls. The hag is collecting the water in small jars and shells. The water is maybe technically potable, but looks strangely green and smells like an umber hulk. Small dungeon flowers are growing in some of these cracks. These flowers will induce vomitting if eaten raw.
@@ -45,7 +46,7 @@ Acrid smoke
 : The smoke from the fire smells like bitter burning vegetables. There are passages to other rooms and some cracks in the ceiling which let small amounts of smoke out, but it's not enough to be considered proper ventilation, so smoke is starting to build up. 
 
 The Cooking Hag, hunched over and stirring
-: Wicked looking claws. Green warty skin. Dirty hands covered in blood and grime. Wiry hair so white it almost glows. Very hungry. Doesn't care about others. Her name is Hungrillda.
+: Wicked looking claws. Green warty skin. Wiry muscles. Dirty hands covered in blood and grime. Dry hair so white it almost glows. Very hungry. Zero empathy, but quite shrewd. Her name is Hungrillda.
 
 Goblin Captive, bound in rope
 : Only has one very long hair on her head. Clothing made of stitched together rat pelts. Squeaky voice. Incredibly terrified, just wants to escape. Her name is Crunchwrap Supreme (it's a very common goblin name).
@@ -58,15 +59,39 @@ Goblin Captive, bound in rope
 
 ## Interactions
 
-If the witch's lunch is dumped into the fire, then the fire will be extinguished and 
+
+If the PCs try to walk by.
+: 
+
 
 
 
 If the PCs fight the Hag
-: The hag will try to fight normally for one round. But if 
+: Hungrillda will start by dumping her soup into the fire, filling the room with smoke and steam. She will then use the cover to do some sort of shenanigans. The first option is for her to use her ***Illusory Appearance*** and ***Mimicry*** to disguise herself as a party member and try to sow chaos. The smoke obscures the room, so a PC needs a DC14 Insight check to discern who she is by sound. But this option is roleplay heavy, and demands some buy-in from the players. A simpler option is for her to hide in the smoke and continually cast ***Vicious Mockery***. If she's cornered she'll use her claws. And if things seem like they're going poorly, she'll try to turn invisible and run away.
+
 
 If the pot of liquid is dumped into the fire
-: The fire is extinguished, smoke and steam fill the room. Treat the smoke like a [stinking cloud](https://roll20.net/compendium/dnd5e/Stinking%20Cloud#content) (*Lasts up to 1 minute, dispersed by wind. Obscures the area. Each creature within the cloud at the start of the turn must CON save or spend its action that turn retching.*). The hag eats this nasty stuff on the reg, so she is immune to the retching effect.
+: The fire is extinguished, smoke and steam fill the room. Treat the smoke like a [stinking cloud](https://roll20.net/compendium/dnd5e/Stinking%20Cloud#content) (*Lasts up to 1 minute, dispersed by wind. Obscures the area [No AoO; eassy to hide, but no sneak attack; can't do checks based on vision.]. Each creature within the cloud at the start of the turn must CON save or spend its action that turn retching.*). The hag eats this nasty stuff on the reg, so she is immune to the retching effect.
+
+
+If the goblin is freed.
+: Crunchwrap Supreme will be extremely grately, dig deep into her pockets, and give the PCs her most valued treasure as thanks for her rescue. (Roll below to see what her valued treasure is.) Then unless the PCs want her to stick around, she will scurry away through a crack in the walls. The crack looks much too small to fit 
+
+Crunchwrap's treasures (1d6):
+1. "This Bottle of Weird Blood!" (Potion of Healing 2d4+2)
+2. "The King of All Earthworms!" (an ordinary earthworm, not magic, not even unusually large)
+3. "Weird Shiny Rocks!" (30 GP)
+4. "A Pile of Gold!" (A chunk of Pyrite, negligible value)
+5. "My Special Sauce!" (1 pound of goblin earwax, astoundingly sticky)
+6. "The Sword of the Goblin Queen" (A hand-made shank, deals 1d4 piercing.)
+
+
+
+
+
+
+## Loot
+
 
 
 
@@ -78,7 +103,7 @@ If the pot of liquid is dumped into the fire
 
 ## Abbrieviated Stat Blocks
 
-### Crunchwrap Supreme the [Goblin](https://www.dndbeyond.com/monsters/goblin) Captive.
+### Crunchwrap Supreme, the [Goblin](https://www.dndbeyond.com/monsters/goblin) Captive.
 
 |AC | HP | Spd | STR | DEX | CON | INT | WIS | CHA| ProfBon|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -97,7 +122,7 @@ Skills
 Senses and physical abilities
 : Darkvision 60 ft., Passive Perception 9
 
-
+<br><br>
 
 
 
@@ -123,7 +148,10 @@ Skills
 : Arcana +3, Deception +4, Perception +4, Stealth +3
 
 Senses and physical abilities
-: Darkvision 60 ft.; Passive Perception 14; amphibious; can mimic voices (DC 14 Insight check to discern the mimicry).
+: Darkvision 60 ft.; Passive Perception 14; amphibious; 
+
+Mimicry
+: Can mimic animal sounds and humanoid voices. DC 14 Insight (WIS) check to discern the mimicry
 
 Illusory Appearance
 : As an action, can magically disguise herself as another medium humanoid. Visual inspection can see through the disguise with a DC20 Investigation (INT) check.
@@ -131,7 +159,7 @@ Illusory Appearance
 
 
 ---
-
+<!--
 ### Hungrillda, the hungry [Night Hag](https://www.dndbeyond.com/monsters/night-hag)
 
 If the DM would like to increase the difficulty of the combat, they can make Hungrillda a Night Hag instead of a Green Hag.
@@ -161,9 +189,7 @@ Senses
 
 Change Shape
 : As an action, can magically Change Shape. But Grunhilda probably won't use this. She's proud of her warty beauty.
-
-
-
+-->
 
 
 
