@@ -17,7 +17,7 @@ For GMs:
 
 1. Have the players enter the room some distance away from the hag.
 2. Describe the room. (See Description section)
-3. Make it clear that the Hag won't attack if not provoked.
+3. Make it clear that the Hag won't attack if not provoked. (She'll be provoked if you get too close or ruin her lunch.)
 4. Turn over control of situation to players. (See Interactions section)
 
 
@@ -59,11 +59,16 @@ Goblin Captive, bound in rope
 
 ## Interactions
 
+If the PCs don't immediately attack
+: After a few moments, the captive goblin will wiggle around so she can see the PCs and then start begging for help, explaining that the Hag is planning to eat her. She promises to reward the PCs, but is scarce on the details of what that reward actually entails.
+
 
 If the PCs try to walk by.
-: 
+: The Hag will demand payment for passage. What kind of payment? Why something tasty, of course. If the PCs refuse, and try to pass by without tribute, she will attack.
 
 
+If the PCs offer her something tasty.
+: For each tasty ingredient they give to the hag, she will agree to do one of the following: Free the Goblin; Let the PCs pass through her room; or Give them a serving of her meal. These tasty ingredients could be high-quality rations they happen to have in their inventory, or it could be the meat from some other creature in the dungeon. If the PCs give her something poisonous, and fail a Bluff Check, she will get angry and attack.
 
 
 If the PCs fight the Hag
@@ -71,28 +76,32 @@ If the PCs fight the Hag
 
 
 If the pot of liquid is dumped into the fire
-: The fire is extinguished, smoke and steam fill the room. Treat the smoke like a [stinking cloud](https://roll20.net/compendium/dnd5e/Stinking%20Cloud#content) (*Lasts up to 1 minute, dispersed by wind. Obscures the area [No AoO; eassy to hide, but no sneak attack; can't do checks based on vision.]. Each creature within the cloud at the start of the turn must CON save or spend its action that turn retching.*). The hag eats this nasty stuff on the reg, so she is immune to the retching effect.
+: The fire is extinguished, smoke and steam fill the room. Treat the smoke like a [stinking cloud](https://roll20.net/compendium/dnd5e/Stinking%20Cloud#content) (*Lasts up to 1 minute, dispersed by wind. Obscures the area [No AoO; eassy to hide, but no sneak attack; can't do checks based on vision.]. Each creature within the cloud at the start of the turn must CON save (DC 12) or spend its action that turn retching.*). The hag eats this nasty stuff on the reg, so she is immune to the retching effect.
 
+If the PCs drink some of the Hag's Stanky Soup
+: If no ingredients have been added, then the drinker must make a DC 12 CON check or spend their next round retching. If tasty ingredients have been added, then the drinker must still make the CON check; but on a sucess, the drinker will also heal 2d4+2, as with a healing potion. 
 
 If the goblin is freed.
-: Crunchwrap Supreme will be extremely grately, dig deep into her pockets, and give the PCs her most valued treasure as thanks for her rescue. (Roll below to see what her valued treasure is.) Then unless the PCs want her to stick around, she will scurry away through a crack in the walls. The crack looks much too small to fit 
+: Crunchwrap Supreme will be extremely grateful, dig deep into her pockets, and give the PCs her most valued treasure as thanks for her rescue. (Roll below to see what her valued treasure is.) Then unless the PCs want her to stick around, she will scurry away through a crack in the walls. 
 
 Crunchwrap's treasures (1d6):
 1. "This Bottle of Weird Blood!" (Potion of Healing 2d4+2)
 2. "The King of All Earthworms!" (an ordinary earthworm, not magic, not even unusually large)
 3. "Weird Shiny Rocks!" (30 GP)
-4. "A Pile of Gold!" (A chunk of Pyrite, negligible value)
+4. "A Pile of Gold!" (chunk of pyrite, negligible value)
 5. "My Special Sauce!" (1 pound of goblin earwax, astoundingly sticky)
-6. "The Sword of the Goblin Queen" (A hand-made shank, deals 1d4 piercing.)
+6. "The Sword of the Goblin Queen" (hand-made shank, deals 1d4 piercing.)
+5. "A Huge Gemstone" (chunk of ambergris)
+6. "Uh... This Dead Rat?" (half a dead rat)
 
 
 
+## Possible Loot Summary
 
-
-
-## Loot
-
-
+- The poisonous flowers growing in the walls.
+- The Hag's nasty soup.
+- The Hag's cooking pot and utensils (decent quality, worth 2 GP)
+- Whatever in the goblin's pockets.
 
 
 
