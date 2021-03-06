@@ -46,20 +46,20 @@ https://www.artstation.com/artwork/rRymVE
 
 ## Rearranged table, with 4-way symettry.
 
-| Element | EZodiac | CElement | WZodiac           |   | method                      | color  |
-|---------|---------|----------|-------------------|---|-----------------------------|--------|
-| Hot     | Rat     | Fire     | Sagittarius, fire |   | plague, willpower, survival | orange |
-| Bright  | Rooster | Fire     | Aries, fire       |   | Assertion, witness          | white  |
-| Dry     | Tiger   | Fire     | Leo, fire         |   | drive, hunt                 | yellow |
-| Subtle  | Pig     | Air      | Gemini, air       |   | communication, bargaining   | pink   |
-| Soft    | Rabbit  | Water    | pisces, water     |   | empathy, sacrifice          | blue   |
-| Quick   | Horse   | Air      | aquarius, air     |   | socialization, appreciation | red    |
-| Slow    | Ox      | Earth    | taurus, earth     |   | material world, patience    | brown  |
-| Hard    | Dragon  | Earth    | capricorn, earth  |   | practicality, mercenary     | grey   |
-| Dense   | Monkey  | Water    | cancer, water     |   | moon, emotion, cult         | green  |
-| Wet     | Snake   | Water    | scorpio, water    |   | sensitivity, hunt           | teal   |
-| Dark    | Dog     | Earth    | virgo, earth      |   | caution, preperation        | black  |
-| Cold    | Goat    | Air      | Libra, air        |   | conceptualization, balance  | purple |
+| Element | EZodiac | CElement | WZodiac           |   | method                      | color  | god        | Cthonic    |
+|---------|---------|----------|-------------------|---|-----------------------------|--------|------------|------------|
+| Hot     | Rat     | Fire     | Sagittarius, fire |   | plague, willpower, survival | orange | Hephaestus |            |
+| Bright  | Rooster | Fire     | Aries, fire       |   | Assertion, witness          | white  | Apollo     |            |
+| Dry     | Tiger   | Fire     | Leo, fire         |   | drive, hunt                 | yellow | Ares       |            |
+| Subtle  | Pig     | Air      | Gemini, air       |   | communication, bargaining   | pink   | Zeus       |            |
+| Soft    | Rabbit  | Water    | pisces, water     |   | empathy, sacrifice          | blue   | Aphrodite  | Melinoë    |
+| Quick   | Horse   | Air      | aquarius, air     |   | socialization, appreciation | red    | Hermes     |            |
+| Slow    | Ox      | Earth    | taurus, earth     |   | material world, patience    | brown  | , Hera?    | Persephone |
+| Hard    | Dragon  | Earth    | capricorn, earth  |   | practicality, mercenary     | grey   | Athena     | Hecate     |
+| Dense   | Monkey  | Water    | cancer, water     |   | moon, emotion, cult*        | green  | Demeter    | Hades      |
+| Wet     | Snake   | Water    | scorpio, water    |   | sensitivity, hunt           | teal   | Poseidon   |            |
+| Dark    | Dog     | Earth    | virgo, earth      |   | caution, preperation*       | black  | Artemis    | Nyx        |
+| Cold    | Goat    | Air      | Libra, air        |   | conceptualization, balance  | purple | Hestia     |            |
 
 
 
