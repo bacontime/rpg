@@ -1,4 +1,14 @@
 
+Oh, but as long as you're here, here's a few random tables:
+
+
+
+
+
+
+
+
+
 
 
 ### d12 Random Mundane Materials
@@ -35,7 +45,8 @@
 3. Adamant Glass: Perfectly clear, impossible to sully or scratch. Impervious and impenetrable to all forms of chemical or magic, meaning it can be used to entrap ghosts, spells, and other spirits. Really easy to melt, though.
 4. Vermillion Ichor: Like red-tinged quicksilver. Constantly jitters in place. Imbues anything it's placed into with elan vital, compelling it into motion and imbuing it with will.
 5. Magnets
-6. 
+6. Philosopher's stone: Turns mercury into silver on contact, lead into gold, reverses aging, frags trolls, etc.
+7. Shimmersilk: 
 
 
 
