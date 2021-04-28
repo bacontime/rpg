@@ -20,9 +20,10 @@
 
 $$
 \gdef\foo{x^2} \foo + \foo
-\gdef\rush{\ggg} \rush
-\gdef\stunrush{\textcolor{blue}{\ggg}} \stunrush
-\gdef\bash{\eth} \eth
+\gdef\rush{\pmb{\ggg}} \rush
+\gdef\shot{\pmb{\ggg}} \shot
+\gdef\stunrush{\textcolor{blue}{\pmb{\ggg}} \stunrush
+\gdef\bash{🤜} \bash
 $$
 
 $\foo$
