@@ -18,13 +18,11 @@
 
 
 
-$$
-\gdef\foo{x^2} \foo + \foo
-\gdef\rush{\pmb{\ggg}} \rush
-\gdef\shot{\pmb{🏹}} \shot
-\gdef\stunrush{\textcolor{blue}{\pmb{\ggg}} \stunrush
-\gdef\bash{🤜} \bash
-$$
+$$\gdef\foo{x^2} \foo + \foo$$
+$$\gdef\rush{\pmb{\ggg}} \rush$$
+$$\gdef\shot{🏹} \shot$$
+$$\gdef\stunrush{\textcolor{blue}{\pmb{\ggg}} \stunrush$$
+$$\gdef\bash{🤜} \bash$$
 
 $\foo$
 
