@@ -21,7 +21,7 @@ $$\gdef\stunrush{\textcolor{blue}{\bold{\ggg}}} \stunrush$$
 $$\gdef\bash{🤜} \bash$$
 
 |Name|Lvl|Action|Notes|
-|---|---|---|---|
+|---|:-:|:-:|---|
 |Centaur|1|$\rush\vert\bash$|  |
 |Minotaur|1|$$\circlearrowright$$|Reflects Arrows|
 |Orc|1|$\bash\vert\shot$|  |
