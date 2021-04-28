@@ -15,21 +15,10 @@
   });
 </script>
 
-
-
-
-$$\gdef\foo{x^2} \foo + \foo$$
 $$\gdef\rush{\pmb{\ggg}} \rush$$
 $$\gdef\shot{🏹} \shot$$
-$$\gdef\stunrush{\textcolor{blue}{\pmb{\ggg}} \stunrush$$
+$$\gdef\stunrush{\textcolor{blue}{\pmb{\ggg}}} \stunrush$$
 $$\gdef\bash{🤜} \bash$$
-
-$\foo$
-
-$\foo$
-
-$\foo$
-
 
 |Name|Lvl|Action|Notes|
 |---|---|---|---|
