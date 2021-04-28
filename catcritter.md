@@ -15,9 +15,9 @@
   });
 </script>
 
-$$\gdef\rush{\pmb{\ggg}} \rush$$
+$$\gdef\rush{\bold{\ggg}} \rush$$
 $$\gdef\shot{🏹} \shot$$
-$$\gdef\stunrush{\textcolor{blue}{\pmb{\ggg}}} \stunrush$$
+$$\gdef\stunrush{\textcolor{blue}{\bold{\ggg}}} \stunrush$$
 $$\gdef\bash{🤜} \bash$$
 
 |Name|Lvl|Action|Notes|
