@@ -34,6 +34,6 @@ $\foo$
 
 |Name|Lvl|Action|Notes|
 |---|---|---|---|
-|Centaur|1|$$\rush | \bash$$|  |
+|Centaur|1|$\rush\vert\bash$|  |
 |Minotaur|1|$$\circlearrowright$$|Reflects Arrows|
 
