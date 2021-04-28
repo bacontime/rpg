@@ -33,5 +33,5 @@ $\foo$
 
 
 
-|Centaur|1|$\rush$|
+|Centaur|1|$$\rush | \bash$$|
 
