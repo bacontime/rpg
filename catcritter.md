@@ -21,7 +21,7 @@
 $$
 \gdef\foo{x^2} \foo + \foo
 \gdef\rush{\pmb{\ggg}} \rush
-\gdef\shot{\pmb{\ggg}} \shot
+\gdef\shot{\pmb{🏹}} \shot
 \gdef\stunrush{\textcolor{blue}{\pmb{\ggg}} \stunrush
 \gdef\bash{🤜} \bash
 $$
@@ -37,4 +37,5 @@ $\foo$
 |---|---|---|---|
 |Centaur|1|$\rush\vert\bash$|  |
 |Minotaur|1|$$\circlearrowright$$|Reflects Arrows|
+|Orc|1|$\bash\vert\shot$|  |
 
