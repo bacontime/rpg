@@ -21,7 +21,8 @@
 $$
 \gdef\foo{x^2} \foo + \foo
 \gdef\rush{\ggg} \rush
-\gdef\stunrush{\textcolor{blue}{»}} \stunrush
+\gdef\stunrush{\textcolor{blue}{\ggg}} \stunrush
+\gdef\bash{\eth} \eth
 $$
 
 $\foo$
@@ -32,5 +33,5 @@ $\foo$
 
 
 
-
+|Centaur|1|$\rush$|
 
