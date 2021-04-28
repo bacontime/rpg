@@ -20,7 +20,8 @@
 
 $$
 \gdef\foo{x^2} \foo + \foo
-\gdef\rush{»} \rush
+\gdef\rush{\ggg} \rush
+\gdef\stunrush{\textcolor{blue}{»}} \stunrush
 $$
 
 $\foo$
