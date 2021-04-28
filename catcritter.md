@@ -18,7 +18,7 @@
 
 
 
-$$\def\foo{x^2} \foo + \foo$$
+$$\gdef\foo{x^2} \foo + \foo$$
 
 $\foo$
 
