@@ -32,6 +32,8 @@ $\foo$
 $\foo$
 
 
-
-|Centaur|1|$$\rush | \bash$$|
+|Name|Lvl|Action|Notes|
+|---|---|---|---|
+|Centaur|1|$$\rush | \bash$$|  |
+|Minotaur|1|$$\circlearrowright$$|Reflects Arrows|
 
