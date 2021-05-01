@@ -10,3 +10,5 @@ https://www.amazon.com/Dungeons-Drawings-Illustrated-Compendium-Creatures/dp/152
 
 
 https://methodsetmadness.blogspot.com/2016/03/one-page-rules-or-taking-page-from.html
+
+http://rolesrules.blogspot.com/2013/04/one-page-animal-generator.html
