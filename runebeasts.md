@@ -63,6 +63,9 @@ https://www.artstation.com/artwork/rRymVE
 
 
 
+Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock and Wizard
+
+
 ## General Coorespondences of above
 
 color | type | critter
