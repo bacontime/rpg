@@ -20,7 +20,8 @@
     - half/2/12
 - bell
     - quarter bell  
-    - alfric gets uop at second bell, mizuki at third, verity at fourth, dawn around first   
+    - alfric and zuki show up at the pub at second bell, mizuki at third, verity at fourth, dawn around first 
+    - (pub opens at noon, so if verity gets up at noon, she can't start working right at open, but Verity starts playing at noon, so...)  
     - market opens at third bell
     - fric wants to dungeon at sixth. that's how long isra waits too
     - kitchen shuts down at ninth bell
