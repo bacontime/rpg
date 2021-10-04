@@ -32,6 +32,7 @@
 - month
     - Garos months (weekly rotation)  
 - day
+- second
 - year
 - sixth bell
 - cup (kinda)
