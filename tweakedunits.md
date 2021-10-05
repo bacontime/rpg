@@ -74,13 +74,14 @@
     - 12 stadial lengths makes a dromal length (about 1.27 miles, exactly 6696 feet).
     - 12 dromals makes an internal, which is about 15.2 miles, and the limit of a Roman march
     - 3 dozen morsel lengths is about one foot.
+    - Powers of two can similarly be accomodated to approximating US volume units.
 - The *Areanel* is simply a square morsel or *morsel area*. It's about a tenth of a square inch.
     - A dozen morsel areas is called a stamp area. A dozen of those is a hand area or square hand.
 - The *Volumel* is simply a cubic morsel length or *morsel volume*. It's about a tenth of a teaspoon.
     -  A hand volume (cubic hand length) is almost exactly a quart, and about .95 Liters.
     -  A dozen hand volumes is a bucket volume (3 gallons)
     -  A dozen bucket volumes is a drum volum (36.27 gallons, in the range of what's called a "barrel").
-    -
+
 
 #### Other Primel Units
 
