@@ -15,6 +15,9 @@ The self-imposed rules of the exercise are as follows:
 - Larger or smaller units use a consistent exponential power (Though I'm not sticking to decimal).
 - And if possible, the resulting system should feel psuedo-medieval, be intuitive to a 21st century American, and be useful for rules of thumb in a tabletop rpg.
 
+
+
+
 ## Units of Time.
 
 One of the starting points is that our base unit of time is the **round**, which is equal to to 6 seconds.
@@ -24,8 +27,9 @@ A 24-hour day is equal to 14400 = 120 times 120 rounds.
 This suggests the use of a base-120 system of units,
 which is handy for that psuedo-medieval feel,
 because ["hundred" used to refer to units of 120](https://en.wikipedia.org/wiki/Long_hundred#English_unit).
+<!--There's also a bit of hobbit flair, because this gives you an excuse to drop "eleventy" into your in-game dialect.-->
 
-Whenever you see "_hundred_" in the rest of this post, you should interpret it as a "long hundred" or 120.
+Whenever you see "_hundred_" in the rest of this post, you should interpret it as a "long hundred", meaning 120.
 For example:
 
 - The base unit of time is the **round** (6 seconds).
@@ -40,8 +44,9 @@ And the nice thing about 120 is that it has lots of devisors, so all the other u
 And a year of 365 days is *a bit more than* 3 seasons, but eh.
 This is a fantasy world, so if that bothers you, then you can totally just make the year a bit shorter.
 Nobody will even notice.
+I've also seen "watch" (sixth of a day, 4 hours, 20 turns) and "march" (third of a day,  8 hours, 40 turns) used as convenient rpg units.
 
-Also, I don't see such a tiny unit being useful in ttrpg time counting, but we can also go down one level. 
+Also, I don't see such a tiny unit being useful in ttrpg time counting, but we can also go one level smaller. 
 1/120th of a round is 50 milliseconds.
 Just for fun, let's call this a **tick**[^minecraftreference].
 
@@ -49,18 +54,80 @@ Just for fun, let's call this a **tick**[^minecraftreference].
 
 
 
+
+
 ## Units of distance
 
 The size of a square on a tabletop rpg grid is 5 feet. 
-Calling the unit of length a "square" would be rather confusing,
-We could also call it the "space", but there's a slightly more interesting option:
+Calling the unit of length a "square" would be rather confusing.
+<!--We could also call it the "space", but there's a slightly more interesting option:-->
 Classically, [the Roman _pace_ was 5 Roman feet](https://en.wikipedia.org/wiki/Pace_(unit)),
 so let's call our base unit of length the "pace" (even though it's slightly longer than a Roman pace).
 And then in-universe, "space" could be a pormanteau of "square pace", making the battle-grid diagetic.
 
+- There are a hundred **fingerwidths** (half an inch)[^fingerwidthexplanation] in a pace.
 - The base unit of distance is the **pace** (5 feet).
 - There are a hundred paces in a **field** (600 feet),
-- and a hundred fields in a hex (about 13.6 ft).
+- and a hundred fields in a **hex** (about 13.6 miles or 11.85 nautical miles).
+
+The reason for calling 600 feet a "field" is twofold.
+Firstly, the traditional american unit of length is the "football field", which is precisely half of this distance.
+And secondly, 600 ft is a wee bit shorter than the [660 foot furlong](https://en.wikipedia.org/wiki/Furlong), 
+which was traditionally the length an oxen could plow, and hence the width of a field.
+
+It's more traditional to have a 12 mile hex in rpg maps,
+but we can comfort ourselves by pretending that all those old rpg modules meant *nautical* miles.
+<!--https://thealexandrian.net/wordpress/17320/roleplaying-games/hexcrawl-part-2-wilderness-travel-->
+<!--https://paperelemental.blogspot.com/2021/08/NA-hexmaps.html-->
+
+[^fingerwidthexplanation]: Annoyingly there is [no folksy old name for a length of half an inch](https://en.wikipedia.org/wiki/English_units#length). A *third* of an inch is called a barleycorn, and a *sixth* of an inch is called a pica. There are also units called "digit" and "finger", which are 3/4 and 7/8 of an inch, respectively. But I just measured my fingers, and with the exception of the thumbs, they're all closer to half an inch wide. I guess the units were based on big meaty working-man fingers? Maybe "halfinch" isn't such a bad name on its own though. 
+
+
+## Units of speed.
+
+The base unit of speed is paces per round. 
+It's coherent, and that's the unit of speed which is actually used in game mechanical terms.
+Easy peasy.
+
+A side of effect of the consistent exponents is that 
+paces per round, fields per turn, and hexes per day are all equivalent units.
+That's great for reckoning distances and travel times.
+Take a look at how many spaces a character can move in a round on the battlemap. That's the same number of hexes they can move in a day on the worldmap, if they travel all night. Divide by three to get a more reasonable 8 hour travelling day, and double it to get a speed which will drive them to the brink of exhaustion.
+
+Here is a table of speeds for comparison:
+
+|   Description   | Paces/Round | Hex/8hr | mi/hr | km/hr |
+|:---------------:|:-----------:|:-------:|:-----:|:-----:|
+| Sloth Top Speed |     1/3     |         |  0.2  |  0.3  |
+|  Tortoise Speed |      1      |         |  0.6  |  0.9  |
+|     Crawling    |      3      |    1    |  1.7  |  2.7  |
+|    Brisk Walk   |      6      |    2    |  3.4  |  5.5  |
+|   Typical Run   |      12     |    4    |  6.8  |  11.0 |
+|   Sailing Ship[^citationforboatspeed]  |      12     |         |  6.8  |  11.0 |
+|   Athletic Run  |      18     |    6    |  10.2 |  16.5 |
+|    Bike Ride    |      24     |    8    |  13.6 |  22.0 |
+|   Clipper Ship  |      30     |         |  17.1 |  27.4 |
+|  Cheetah Sprint |     120     |    40   |  68.2 | 109.7 |
+
+Horses can gallop at up to 60 paces per round, but this speed isn't sustainable. 
+Over a long distance, horses can travel at about the same average speed as a person on foot: 2-3 hexes per day.
+
+[^citationforboatspeed]: Based on the numbers for East India Company ships in the early 1800s in a fresh breeze.
+Kelly, M, and C Ó Gráda (2018), “[Speed under Sail during the Early Industrial Revolution](https://voxeu.org/article/speed-under-sail-during-early-industrial-revolution)”, CEPR Discussion Paper 12576.
+
+And a little calculator:
+
+<iframe src="https://instacalc.com/55199/embed" width="450" height="350" frameborder="0"></iframe>
+
+
+
+
+
+
+
+
+
+
 
 
 
