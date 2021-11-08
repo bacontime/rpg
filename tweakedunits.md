@@ -85,7 +85,7 @@ but we can comfort ourselves by pretending that all those old rpg modules meant 
 
 ## Units of speed.
 
-The base unit of speed is **paces per round**. 
+The unit of speed is **paces per round**. 
 It's coherent, and that's the unit of speed which is actually used in game mechanical terms.
 Easy peasy.
 
@@ -122,7 +122,7 @@ And a little calculator:
 <iframe src="https://instacalc.com/55199/embed" width="450" height="350" frameborder="0"></iframe>
 
 
-## Sidenote: Units of Acceleration
+### Sidenote: Units of Acceleration
 
 The unit of acceleration is **paces per round per round**, or pc/rd^2 for short.
 
@@ -132,12 +132,24 @@ so if that's the kind of thing that bothers you, you can crank up gravity about 
 
 It's worth noting that it takes about 1 round for a human to reach terminal velocity.
 
-Also, it takes about 1 round for a typical sedan to reach highway speeds of 120 paces per round. 
+Also, it takes about 1 round for a typical sedan to reach highway speeds of 120 paces per round[^carzerosixtycite].
 
-Those are the only acceleration comparisons that come to mind.
+[^carzerosixtycite]: I just skimmed through [this list of car acceleration speeds](https://www.0-60specs.com/0-60-times/). The sedan model names I recognized take around 4-6 seconds to go from 0mph to 60mph. Increase that number a bit, and you get 1 round to reach cheetah speed.
+
+Those are the only acceleration comparisons that come to my mind.
 
 
 
+
+
+
+
+## Force, Mass, and 
+
+All we're missing to get a full system of measurement (for mechanics at least; we're not getting into electrodynamics here)
+is a base unit for force or weight or mass. 
+
+If 
 
 
 
