@@ -85,7 +85,7 @@ but we can comfort ourselves by pretending that all those old rpg modules meant 
 
 ## Units of speed.
 
-The base unit of speed is paces per round. 
+The base unit of speed is **paces per round**. 
 It's coherent, and that's the unit of speed which is actually used in game mechanical terms.
 Easy peasy.
 
@@ -110,7 +110,9 @@ Here is a table of speeds for comparison:
 |  Cheetah Sprint |     120     |    40   |  68.2 | 109.7 |
 
 Horses can gallop at up to 60 paces per round, but this speed isn't sustainable. 
-Over a long distance, horses can travel at about the same average speed as a person on foot: 2-3 hexes per day.
+Over a long distance, horses can travel at about the same average speed as a person on foot[^horsesource]: 2-3 hexes per day.
+
+[^horsesource]: Source: Something I vaguely remember a friend once telling me.
 
 [^citationforboatspeed]: Based on the numbers for East India Company ships in the early 1800s in a fresh breeze.
 Kelly, M, and C Ó Gráda (2018), “[Speed under Sail during the Early Industrial Revolution](https://voxeu.org/article/speed-under-sail-during-early-industrial-revolution)”, CEPR Discussion Paper 12576.
@@ -118,6 +120,7 @@ Kelly, M, and C Ó Gráda (2018), “[Speed under Sail during the Early Industri
 And a little calculator:
 
 <iframe src="https://instacalc.com/55199/embed" width="450" height="350" frameborder="0"></iframe>
+
 
 
 
