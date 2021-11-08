@@ -122,8 +122,19 @@ And a little calculator:
 <iframe src="https://instacalc.com/55199/embed" width="450" height="350" frameborder="0"></iframe>
 
 
+## Sidenote: Units of Acceleration
 
+The unit of acceleration is **paces per round per round**, or pc/rd^2 for short.
 
+Acceleration from gravity at the Earth's surface is about 232 pc/rd^2. 
+That's very close to 240 = 2 * 120, and it's a fantasy world,
+so if that's the kind of thing that bothers you, you can crank up gravity about four percent to make *g = 2 fields per round per round = 2 fingerwidths per tick per tick*  exactly.
+
+It's worth noting that it takes about 1 round for a human to reach terminal velocity.
+
+Also, it takes about 1 round for a typical sedan to reach highway speeds of 120 paces per round. 
+
+Those are the only acceleration comparisons that come to mind.
 
 
 
