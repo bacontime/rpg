@@ -50,7 +50,7 @@ Also, I don't see such a tiny unit being useful in ttrpg time counting, but we c
 1/120th of a round is 50 milliseconds.
 Just for fun, let's call this a **tick**[^minecraftreference].
 
-[^minecraftreference]: In same video games, the state of the world is updated at a rate seperate from the framerate. The length of time between each update of the game's physics engine is called a "gametick" or "tick". I used to play way too much Minecraft, and in Minecraft, the physics engine of the game updates 20 times a second (once every 50 milliseconds). This unit of time is important for understanding various in-game contraptions. For comparison [here is a 20hz metronome (Warning: loud and annoying sound.)](https://www.youtube.com/watch?v=Zk0LGDBRlCo). I can easily imagine a wizard's workshop full of the background noise of various whatzits softly hissing and clicking at that frequency.
+[^minecraftreference]: In same video games, the state of the world is updated at a rate seperate from the framerate. The length of time between each update of the game's physics engine is called a "gametick" or "tick". I used to play way too much Minecraft, and in Minecraft, the physics engine of the game updates 20 times a second (once every 50 milliseconds). <!--This unit of time is important for understanding various in-game contraptions.--> For comparison [here is a 20hz metronome (Warning: loud and annoying sound.)](https://www.youtube.com/watch?v=Zk0LGDBRlCo). I can easily imagine a wizard's workshop full of the background noise of various whatzits softly hissing and clicking at that frequency.
 
 
 
@@ -81,6 +81,22 @@ but we can comfort ourselves by pretending that all those old rpg modules meant 
 <!--https://paperelemental.blogspot.com/2021/08/NA-hexmaps.html-->
 
 [^fingerwidthexplanation]: Annoyingly there is [no folksy old name for a length of half an inch](https://en.wikipedia.org/wiki/English_units#length). A *third* of an inch is called a barleycorn, and a *sixth* of an inch is called a pica. There are also units called "digit" and "finger", which are 3/4 and 7/8 of an inch, respectively. But I just measured my fingers, and with the exception of the thumbs, they're all closer to half an inch wide. I guess the units were based on big meaty working-man fingers? Maybe "halfinch" isn't such a bad name on its own though. 
+
+### Units of Volume
+
+- There are a hundred **cups**[^sizeofacup] in a **pony keg** or **firkin** (about 7.8 gallons),
+- and there are a hundred firkins in a **cubic pace** or **cord** (125 cubic feet).
+
+[^sizeofacup]: In the US, a cup is legally defined as 240 mL. In Canada, a cup is 250 mL. It turns out that 1/120th of 1/120th of a cubic pace is 245.8 mL, right in between. Don't even need to make up a weird fantasy unit. Cups slot right in.
+
+And if you want the in-betwen units, it's quite simple to remember: There are two cups in a pint, two pints in a quart, two quarts in a pottle, fifteen pottles in a firkin, two firkins in a kilderkin, two kilderkins in a barrel, two barrels in a hogshead, and  fifteen hogsheads in a cubic pace. Easy!
+
+<!--firkin means fourth, US barrel is 31.5 gallons, so a US firkin is 7.875 gallons. And a "pony keg" or "quarter barrel" is 7.75 gallons.
+A cord is actually 128 cubic feet, and a rick is a third of a cord.
+At 3.54 stere (cubic meters), this falls within the range of a cord.-->
+
+
+
 
 
 ## Units of speed.
