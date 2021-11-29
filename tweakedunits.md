@@ -174,21 +174,16 @@ But this is world of dragon hordes, so let's base our units on gold instead of w
 The base unit of mass is the **draconic stone**,[^britishstonenote] equal to the mass of precisely one cup of of pure gold,
 (which is roughly 4.7 kg or 10.5 pounds).
 
+- There are a hundred **draconic ounces** in a draconic stone.
 - The base unit of mass is the **(draconic) stone** (about 10.5 pounds).
-- There are a hundred stones in a **cartload** (about 569 kilograms or 1260 pounds),
-- and a hundred cartloads in a **hord** (about 68 megagrams or 150 thousand pounds).
+- There are a hundred stones in a **cartload** (about 569 kilograms or 1255 pounds),
+- and a hundred cartloads in a **hord** (about 68 metric tons or 150 thousand pounds).
 
 A hord is the mass of a cord of gold, which is the smallest amount that can be called [a proper dragon's hoard](https://www.smbc-comics.com/comic/hoard).
 It's [comparable](https://en.wikipedia.org/wiki/Orders_of_magnitude_(mass)#1_kg_to_105_kg) to the mass of a bulldozer or large dinosaur.
 
-Going one level smaller, 
-- There are a hundred **draconic ounces** (about 40 grams, 1.4 avoirdupois ounces, or 1.3 troy ounces) in a draconic stone.
-
-
-Also, nd while smaller units of mass 1/120 of 
-40 grams, which is about 1.4 avoirdupois ounces or 1.3 troy ounces.
-
-<!--1/120 of a cup is about 2 mL. That much gold has mass of -->
+A draconic ounce is about 40 grams, 1.4 avoirdupois ounces, or 1.3 troy ounces.
+And there are 12 draconic ounces in a draconic pound, which is about the same as 1.05 avoirdupois pounds.
 
 [^britishstonenote]: I know the brits out there will say that a stone is 14 pounds, but I refuse to recognize [the dictates of Edward the Third](https://en.wikipedia.org/wiki/Stone_(unit)#England), and continue to insist that any unit of mass between 3 and 10 kg may, depending on context, be reasonably called a 'stone'.
 
@@ -196,6 +191,47 @@ Also, nd while smaller units of mass 1/120 of
 And [an American stone is 10 pounds](https://avalon.law.yale.edu/18th_century/jeffplan.asp).-->
 
 
+
+
+
+### Derived Units of Force, Energy, and Work
+
+Now that we have units for time, distance, and mass,
+we can use these to derive the remaining mechanical base units.
+
+A newton is the force equal to one kilogram·meter per second per second.
+
+Similarly, our unit of force is equal to one hord·pace per round per round.[^teenytinyforceunits]
+This works out to about 2892 Newtons,
+which is, [according to Wolfram Alpha](https://www.wolframalpha.com/input/?i=2892+Newtons), comparable to the force of a punch from a professional boxer.
+Let's call this unit a **wallop**.
+<!--This is also the force exerted by the weighted of 60 stone.-->
+
+<!--A Joule is 1 kilogram meter-squared per second per second.  
+Likewise, our base unit of energy is 1 hord pace-squared per round per round,
+which works out to about 4407 joules, or about 1.05 Calories.
+Not sure what to call this. Let's go with "**zap**" as a placeholder-->
+
+A joule is 1 newton·meter. 
+
+Likewise, our base unit of energy is 1 **wallop·pace**,
+which works out to about 4407 joules, or about 1.05 Calories.
+
+And the base unit of power is 1 wallop·pace per round, which is about 735 watts or 1 metric **horsepower**.[^startwithhorse]
+
+Thus, after several thousand words of explanation, and many hours of careful calculation,
+we have finally established why **hp** is the proper measurement of a fantasy creature's power.[^iamsoverysorry]
+
+[^teenytinyforceunits]: You could use stone·paces per round per round, but then you'd get teeny tiny base unit for force and the rest.
+
+[^startwithhorse]: I actually started with horsepower as the unit of power, and worked backwards to figure out that I could use gold as the basis for the unit of mass, and only get a 1% difference between fantasy horsepower and metric horsepower. What a happy coincidence. 
+
+[^iamsoverysorry]: Sorry.
+
+
+
+<!--All that's left is to somehow spin up a nonsense explanation for why we keep tracking a a player character's horsepower as a measure of their health.
+As for units of temperature, energy etc, maybe I'll figure those ou-->
 
 
 
