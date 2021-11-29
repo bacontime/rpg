@@ -160,17 +160,34 @@ Those are the only acceleration comparisons that come to my mind.
 
 
 
-## Force, Mass, and 
+## Force, Mass, and all the rest.
 
 All we're missing to get a full system of measurement (for mechanics at least; we're not getting into electrodynamics here)
 is a base unit for force or weight or mass. 
 
-If 
+Ideally, it'll be some weight which can be thought of as one 'inventory slot' of stuff. 
+In the real-world SI system, a liter (unit of volume) of water has a mass of approximately 1 kilogram (unit of mass). 
+But this is world of dragon hordes, so let's base our units on gold instead of water.
 
+### Units of Mass
 
+The base unit of mass is the **draconic stone**,[^britishstonenote] equal to the mass of precisely one cup of of pure gold,
+(which is roughly 4.7 kg or 10.5 pounds).
 
+- There are a hundred **fingerwidths** (half an inch)[^fingerwidthexplanation] in a stone.
+- The base unit of mass is the **(draconic) stone** (about 10.5 pounds).
+- There are a hundred stones in a **field** (600 feet),
+- and a hundred fields in a **hex** (about 13.6 miles or 11.85 nautical miles).
 
+And while smaller units of mass 1/120 of 
+40 grams, which is about 1.4 ounces or 1.3 Troy ounces.
 
+<!--1/120 of a cup is about 2 mL. That much gold has mass of -->
+
+[^britishstonenote]: I know the brits out there will say that a stone is 14 pounds, but I refuse to recognize [the dictates of Edward the Third](https://en.wikipedia.org/wiki/Stone_(unit)#England), and continue to insist that any unit of mass between 3 and 10 kg may, depending on context, be reasonably called a 'stone'.
+
+<!--But the truth is that [a stone is however many pounds you want it to be](https://en.wikipedia.org/wiki/Stone_(unit)). 
+And [an American stone is 10 pounds](https://avalon.law.yale.edu/18th_century/jeffplan.asp).-->
 
 
 
