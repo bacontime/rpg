@@ -50,7 +50,7 @@ Also, I don't see such a tiny unit being useful in ttrpg time counting, but we c
 1/120th of a round is 50 milliseconds.
 Just for fun, let's call this a **tick**[^minecraftreference].
 
-[^minecraftreference]: In same video games, the state of the world is updated at a rate seperate from the framerate. The length of time between each update of the game's physics engine is called a "gametick" or "tick". I used to play way too much Minecraft, and in Minecraft, the physics engine of the game updates 20 times a second (once every 50 milliseconds). <!--This unit of time is important for understanding various in-game contraptions.--> For comparison [here is a 20hz metronome (Warning: loud and annoying sound.)](https://www.youtube.com/watch?v=Zk0LGDBRlCo). I can easily imagine a wizard's workshop full of the background noise of various whatzits softly hissing and clicking at that frequency.
+[^minecraftreference]: In some video games, the state of the world is updated at a rate seperate from the framerate. The length of time between each update of the game's physics engine is called a "gametick" or "tick". I used to play way too much Minecraft, and in Minecraft, the physics engine of the game updates 20 times a second (once every 50 milliseconds). <!--This unit of time is important for understanding various in-game contraptions.--> For comparison [here is a 20hz metronome (Warning: loud and annoying sound.)](https://www.youtube.com/watch?v=Zk0LGDBRlCo). I can easily imagine a wizard's workshop full of the background noise of various whatzits softly hissing and clicking at that frequency.
 
 
 
@@ -130,8 +130,8 @@ Over a long distance, horses can travel at about the same average speed as a per
 
 [^horsesource]: Source: Something I vaguely remember a friend once telling me.
 
-[^citationforboatspeed]: Based on the numbers for East India Company ships in the early 1800s in a fresh breeze.
-Kelly, M, and C Ó Gráda (2018), “[Speed under Sail during the Early Industrial Revolution](https://voxeu.org/article/speed-under-sail-during-early-industrial-revolution)”, CEPR Discussion Paper 12576.
+[^citationforboatspeed]: Based on the numbers for East India Company ships in the early 1800s in a fresh breeze. 
+    Kelly, M, and C Ó Gráda (2018), “[Speed under Sail during the Early Industrial Revolution](https://voxeu.org/article/speed-under-sail-during-early-industrial-revolution)”, CEPR Discussion Paper 12576.
 
 And a little calculator:
 
@@ -165,22 +165,28 @@ Those are the only acceleration comparisons that come to my mind.
 All we're missing to get a full system of measurement (for mechanics at least; we're not getting into electrodynamics here)
 is a base unit for force or weight or mass. 
 
-Ideally, it'll be some weight which can be thought of as one 'inventory slot' of stuff. 
-In the real-world SI system, a liter (unit of volume) of water has a mass of approximately 1 kilogram (unit of mass). 
-But this is world of dragon hordes, so let's base our units on gold instead of water.
+Ideally, it'll give us some unit which can be thought of as one 'inventory slot' of stuff. 
 
 ### Units of Mass
 
+In the real-world SI system, a liter of water has a mass of approximately 1 kilogram. 
+But this is world of dragon hordes, so let's base our units on gold instead of water.
 The base unit of mass is the **draconic stone**,[^britishstonenote] equal to the mass of precisely one cup of of pure gold,
 (which is roughly 4.7 kg or 10.5 pounds).
 
-- There are a hundred **fingerwidths** (half an inch)[^fingerwidthexplanation] in a stone.
 - The base unit of mass is the **(draconic) stone** (about 10.5 pounds).
-- There are a hundred stones in a **field** (600 feet),
-- and a hundred fields in a **hex** (about 13.6 miles or 11.85 nautical miles).
+- There are a hundred stones in a **cartload** (about 569 kilograms or 1260 pounds),
+- and a hundred cartloads in a **hord** (about 68 megagrams or 150 thousand pounds).
 
-And while smaller units of mass 1/120 of 
-40 grams, which is about 1.4 ounces or 1.3 Troy ounces.
+A hord is the mass of a cord of gold, which is the smallest amount that can be called [a proper dragon's hoard](https://www.smbc-comics.com/comic/hoard).
+It's [comparable](https://en.wikipedia.org/wiki/Orders_of_magnitude_(mass)#1_kg_to_105_kg) to the mass of a bulldozer or large dinosaur.
+
+Going one level smaller, 
+- There are a hundred **draconic ounces** (about 40 grams, 1.4 avoirdupois ounces, or 1.3 troy ounces) in a draconic stone.
+
+
+Also, nd while smaller units of mass 1/120 of 
+40 grams, which is about 1.4 avoirdupois ounces or 1.3 troy ounces.
 
 <!--1/120 of a cup is about 2 mL. That much gold has mass of -->
 
@@ -188,6 +194,21 @@ And while smaller units of mass 1/120 of
 
 <!--But the truth is that [a stone is however many pounds you want it to be](https://en.wikipedia.org/wiki/Stone_(unit)). 
 And [an American stone is 10 pounds](https://avalon.law.yale.edu/18th_century/jeffplan.asp).-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
