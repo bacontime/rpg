@@ -29,7 +29,7 @@
         "power": "Each page is capable of storing a small item. Press the item into the page to store it as a drawing, annoted with a description of the item.",
         "bound": "partybound",
         "where": "Pucklechurch Dungeon",
-        "owner": "CURRENTOWNER",
+        "owner": "The Party",
         "firstchapter": 5
     },{
         "name": "Finger Flute",
