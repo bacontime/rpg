@@ -242,7 +242,7 @@
     },{
         "name": "Instadinner",
         "looks": "a cloche (tableware cover)",
-        "power": "When the cloche is list, you'll find a hot meal waiting for you.",
+        "power": "When the cloche is lifted, you'll find a hot meal waiting for you.",
         "bound": "unbound",
         "where": "mentioned",
         "owner": "Verity's Family",
