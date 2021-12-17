@@ -6,7 +6,7 @@
         "bound": "unbound",
         "where": "Alfric's Possesion",
         "owner": "Alfric",
-        "firstchapter": 1,
+        "firstchapter": 1
     },{
         "name": "Stride Boots",
         "looks": "a pair of boots",
@@ -14,7 +14,7 @@
         "bound": "unbound",{
         "where": "Alfric's Possesion",
         "owner": "Alfric",
-        "firstchapter": 4,
+        "firstchapter": 4
     },{
         "name": "Record Book",
         "looks": "a small book",
@@ -22,7 +22,7 @@
         "bound": "unbound",
         "where": "Pucklechurch Dungeon",
         "owner": "The Party",
-        "firstchapter": 5,
+        "firstchapter": 5
     },{
         "name": "Bookpack",
         "looks": "a book, big and thick, nearly a foot and a half tall, with what had to be more than a thousand pages",
@@ -30,7 +30,7 @@
         "bound": "partybound",
         "where": "Pucklechurch Dungeon",
         "owner": "CURRENTOWNER",
-        "firstchapter": 5,
+        "firstchapter": 5
     },{
         "name": "Finger Flute",
         "looks": "a flute with what seemed like far too many holes",
@@ -38,7 +38,7 @@
         "bound": "unbound",
         "where": "Pucklechurch Dungeon",
         "owner": "Verity",
-        "firstchapter": 6,
+        "firstchapter": 6
     },{
         "name": "Anyspoon",
         "looks": "a small silver spoon",
@@ -46,7 +46,7 @@
         "bound": "unbound",
         "where": "Pucklechurch Dungeon",
         "owner": "Mizuki",
-        "firstchapter": 6,
+        "firstchapter": 6
     },{
         "name": "Trauma Hanky",
         "looks": "a dark red handkerchief",
@@ -54,7 +54,7 @@
         "bound": "While it covers a wound, that wound temporarily ceases to cause pain or impairment.",
         "where": "Pucklechurch Dungeon",
         "owner": "sold to Eddel",
-        "firstchapter": 6,
+        "firstchapter": 6
     },{
         "name": "Slow Bow",
         "looks": "a white wooden longbow the color of bone",
@@ -62,7 +62,7 @@
         "bound": "Izra",
         "where": "Pucklechurch Dungeon",
         "owner": "Izra",
-        "firstchapter": 6,
+        "firstchapter": 6
     },{
         "name": "Mergan's Monocle",
         "looks": "a monocle with a green lens",
@@ -70,7 +70,7 @@
         "bound": "???",
         "where": "Mergan’s Emporium",
         "owner": "Mergan",
-        "firstchapter": 9,
+        "firstchapter": 9
     },{
         "name": "Mergan's Lockbox",
         "looks": "???",
@@ -78,7 +78,7 @@
         "bound": "???",
         "where": "Mergan’s Emporium",
         "owner": "Mergan",
-        "firstchapter": 11,
+        "firstchapter": 11
     },{
         "name": "Self-fetching Arrows",
         "looks": "a set of arrows made of near-indestructable metal, slightly blunt",
@@ -86,7 +86,7 @@
         "bound": "unbound",
         "where": "Sharpe & Eddel",
         "owner": "Isra",
-        "firstchapter": 11,
+        "firstchapter": 11
     },{
         "name": "Dagger of Strategic Retreating",
         "looks": "a small dagger, slightly dull, with a handle of jade",
@@ -94,7 +94,7 @@
         "bound": "unbound",
         "where": "Sharpe & Eddel",
         "owner": "The Party",
-        "firstchapter": 11,
+        "firstchapter": 11
     },{
         "name": "Woods Walker",
         "looks": "a staff",
@@ -102,7 +102,7 @@
         "bound": "unbound",
         "where": "Sharpe & Eddel",
         "owner": "Eddel",
-        "firstchapter": 11,
+        "firstchapter": 11
     },{
         "name": "Doldrum Insurance",
         "looks": "a sail",
@@ -110,7 +110,7 @@
         "bound": "unbound",
         "where": "Sharpe & Eddel",
         "owner": "Eddel",
-        "firstchapter": 11,
+        "firstchapter": 11
     },{
         "name": "One-Way Ticket to Sprained Anklesville",
         "looks": "a pair of boots",
@@ -118,7 +118,7 @@
         "bound": "unbound",
         "where": "Sharpe & Eddel",
         "owner": "Eddel",
-        "firstchapter": 11,
+        "firstchapter": 11
     },{
         "name": "Hearing Earings",
         "looks": "a pair of earrings, jet black in the center with silver swirls around the outside",
@@ -126,7 +126,7 @@
         "bound": "Bethany",
         "where": "Bethany's Possesion",
         "owner": "Bethany",
-        "firstchapter": 17,
+        "firstchapter": 17
     },{
         "name": "Jingu Bang Junior",
         "looks": "a wooden staff, so natural that it might have been possible to mistake for a branch",
@@ -134,7 +134,7 @@
         "bound": "unbound",
         "where": "Traeg's Knob Dungeon",
         "owner": "Mizuki",
-        "firstchapter": 24,
+        "firstchapter": 24
     },{
         "name": "Soggy Sword",
         "looks": "a sword covered in seaweed, rust, and barnacles, with the metal chipped and cracked",
@@ -142,7 +142,7 @@
         "bound": "???",
         "where": "Traeg's Knob Dungeon",
         "owner": "???",
-        "firstchapter": 24,
+        "firstchapter": 24
     },{
         "name": "Warping Wardrobe",
         "looks": "a piece of large oak furniture with a curious dial set into its front",
@@ -150,7 +150,7 @@
         "bound": "unbound",
         "where": "Traeg's Knob Dungeon",
         "owner": "The Party, though kept in the Pucklechurch.",
-        "firstchapter": 24,
+        "firstchapter": 24
     },{
         "name": "Fidget Flipper",
         "looks": "a big coin, almost a big across as a hand",
@@ -158,7 +158,7 @@
         "bound": "???",
         "where": "Traeg's Knob Dungeon",
         "owner": "???",
-        "firstchapter": 25,
+        "firstchapter": 25
     },{
         "name": "Slipknot",
         "looks": "a rope",
@@ -166,7 +166,7 @@
         "bound": "???",
         "where": "Traeg's Knob Dungeon",
         "owner": "???",
-        "firstchapter": 25,
+        "firstchapter": 25
     },{
         "name": "Clerical X-Ray Specs",
         "looks": "a pair of goggles",
@@ -174,7 +174,7 @@
         "bound": "???",
         "where": "Traeg's Knob Dungeon",
         "owner": "???",
-        "firstchapter": 25,
+        "firstchapter": 25
     },{
         "name": "Rock Garden",
         "looks": "a pale rock with lots of holes",
@@ -182,7 +182,7 @@
         "bound": "unbound",
         "where": "Traeg's Knob Dungeon",
         "owner": "The Party",
-        "firstchapter": 25,
+        "firstchapter": 25
     },{
         "name": "Backstabber",
         "looks": "a dagger",
@@ -190,7 +190,7 @@
         "bound": "???",
         "where": "Traeg's Knob Dungeon",
         "owner": "???",
-        "firstchapter": 25,
+        "firstchapter": 25
     },{
         "name": "The Flower Pot",
         "looks": "an ordinary flower pot",
@@ -198,7 +198,7 @@
         "bound": "???",
         "where": "Mentioned",
         "owner": "???",
-        "firstchapter": 6,
+        "firstchapter": 6
     },{
         "name": "The Warp Wand",
         "looks": "a rod",
@@ -206,7 +206,7 @@
         "bound": "unbound",
         "where": "mentioned",
         "owner": "???",
-        "firstchapter": 21,
+        "firstchapter": 21
     },{
         "name": "Recall Statue",
         "looks": "a statue",
@@ -214,7 +214,7 @@
         "bound": "Ria",
         "where": "mentioned",
         "owner": "Ria",
-        "firstchapter": 21,
+        "firstchapter": 21
     },{
         "name": "Pond Hopper",
         "looks": "NA",
@@ -222,7 +222,7 @@
         "bound": "NA",
         "where": "hypothetical",
         "owner": "NA",
-        "firstchapter": 21,
+        "firstchapter": 21
     },{
         "name": "Gillgamesh",
         "looks": "???",
@@ -230,7 +230,7 @@
         "bound": "???",
         "where": "mentioned",
         "owner": "Alfric's Uncle",
-        "firstchapter": 22,
+        "firstchapter": 22
     },{
         "name": "Topo Table",
         "looks": "a table, nearly four feet across, six feet long",
@@ -238,7 +238,7 @@
         "bound": "unbound",
         "where": "mentioned",
         "owner": "one of the Dondrian hexmasters",
-        "firstchapter": 25,
+        "firstchapter": 25
     },{
         "name": "Instadinner",
         "looks": "a cloche (tableware cover)",
@@ -246,6 +246,6 @@
         "bound": "unbound",
         "where": "mentioned",
         "owner": "Verity's Family",
-        "firstchapter": 25,
-    }
-]}    
+        "firstchapter": 25
+    }]
+}    
