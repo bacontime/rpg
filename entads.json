@@ -50,8 +50,8 @@
     },{
         "name": "Trauma Hanky",
         "looks": "a dark red handkerchief",
-        "power": "unbound",
-        "bound": "While it covers a wound, that wound temporarily ceases to cause pain or impairment.",
+        "power": "While it covers a wound, that wound temporarily ceases to cause pain or impairment.",
+        "bound": "unbound",
         "where": "Pucklechurch Dungeon",
         "owner": "sold to Eddel",
         "firstchapter": 6
