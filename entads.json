@@ -295,13 +295,5 @@
         "where": "PLACEFIRSTSEEN",
         "owner": "CURRENTOWNER",
         "firstchapter": CHAPTERNUM,
-    },{
-        "name": "NAME",
-        "looks": "DESCRIPTION",
-        "power": "DESCRIPTION",
-        "bound": "PERSONBOUNDTO",
-        "where": "PLACEFIRSTSEEN",
-        "owner": "CURRENTOWNER",
-        "firstchapter": CHAPTERNUM,
     },
 ]}    
