@@ -4,7 +4,7 @@
         "looks": "an antique shortword",
         "power": "It’s electric. It's very mildly shocks anything which touches the blade, and a magical charge can be expended to create a stronger burst of electricity.",
         "bound": "unbound",
-        "found": "Alfric's Possesion",
+        "where": "Alfric's Possesion",
         "owner": "Alfric",
         "firstchapter": 1,
     },{
@@ -12,7 +12,7 @@
         "looks": "a pair of boots",
         "power": "They make the wearer's stride slightly longer, enabling slightly faster walking.",
         "bound": "unbound",{
-        "found": "Alfric's Possesion",
+        "where": "Alfric's Possesion",
         "owner": "Alfric",
         "firstchapter": 4,
     },{
@@ -20,7 +20,7 @@
         "looks": "a small book",
         "power": "The book transcribes everything people say nearby.",
         "bound": "unbound",
-        "found": "Pucklechurch Dungeon",
+        "where": "Pucklechurch Dungeon",
         "owner": "The Party",
         "firstchapter": 5,
     },{
@@ -28,7 +28,7 @@
         "looks": "a book, big and thick, nearly a foot and a half tall, with what had to be more than a thousand pages",
         "power": "Each page is capable of storing a small item. Press the item into the page to store it as a drawing, annoted with a description of the item.",
         "bound": "partybound",
-        "found": "Pucklechurch Dungeon",
+        "where": "Pucklechurch Dungeon",
         "owner": "CURRENTOWNER",
         "firstchapter": 5,
     },{
@@ -36,7 +36,7 @@
         "looks": "a flute with what seemed like far too many holes",
         "power": "When in contact with a person's skin, that person has as many fingers as they need, and has the muscle memory needed to use all of their fingers effectively.",
         "bound": "unbound",
-        "found": "Pucklechurch Dungeon",
+        "where": "Pucklechurch Dungeon",
         "owner": "Verity",
         "firstchapter": 6,
     },{
@@ -44,7 +44,7 @@
         "looks": "a small silver spoon",
         "power": "With concentration, the wielder can change its shape and size, but it can never shift too far from being a normal spoon.",
         "bound": "unbound",
-        "found": "Pucklechurch Dungeon",
+        "where": "Pucklechurch Dungeon",
         "owner": "Mizuki",
         "firstchapter": 6,
     },{
@@ -52,7 +52,7 @@
         "looks": "a dark red handkerchief",
         "power": "unbound",
         "bound": "While it covers a wound, that wound temporarily ceases to cause pain or impairment.",
-        "found": "Pucklechurch Dungeon",
+        "where": "Pucklechurch Dungeon",
         "owner": "sold to Eddel",
         "firstchapter": 6,
     },{
@@ -60,7 +60,7 @@
         "looks": "a white wooden longbow the color of bone",
         "power": "Shooting an arrow creates a 10 foot bubble of slowed time that follows the arrow.",
         "bound": "Izra",
-        "found": "Pucklechurch Dungeon",
+        "where": "Pucklechurch Dungeon",
         "owner": "Izra",
         "firstchapter": 6,
     },{
@@ -68,7 +68,7 @@
         "looks": "a monocle with a green lens",
         "power": "It allows the wearer to read other languages.",
         "bound": "???",
-        "found": "Mergan’s Emporium",
+        "where": "Mergan’s Emporium",
         "owner": "Mergan",
         "firstchapter": 9,
     },{
@@ -76,7 +76,7 @@
         "looks": "???",
         "power": "The entad takes some time and effort to open. It is used as a safe.",
         "bound": "???",
-        "found": "Mergan’s Emporium",
+        "where": "Mergan’s Emporium",
         "owner": "Mergan",
         "firstchapter": 11,
     },{
@@ -84,7 +84,7 @@
         "looks": "a set of arrows made of near-indestructable metal, slightly blunt",
         "power": "After coming to a rest for one second, the arrows return to the person who shot them. This effect fails is more than four arrows are loosed at the same time.",
         "bound": "unbound",
-        "found": "Sharpe & Eddel",
+        "where": "Sharpe & Eddel",
         "owner": "Isra",
         "firstchapter": 11,
     },{
@@ -92,7 +92,7 @@
         "looks": "a small dagger, slightly dull, with a handle of jade",
         "power": "Once per day, the person whom the dagger last cut can teleport to the location of the dagger. Anything the person is carrying is teleported along with them, up to some weight limit.",
         "bound": "unbound",
-        "found": "Sharpe & Eddel",
+        "where": "Sharpe & Eddel",
         "owner": "The Party",
         "firstchapter": 11,
     },{
@@ -100,7 +100,7 @@
         "looks": "a staff",
         "power": "It lets you walk through trees about a mile at a time but in a random direction.",
         "bound": "unbound",
-        "found": "Sharpe & Eddel",
+        "where": "Sharpe & Eddel",
         "owner": "Eddel",
         "firstchapter": 11,
     },{
@@ -108,7 +108,7 @@
         "looks": "a sail",
         "power": "Harnesses unseen winds.",
         "bound": "unbound",
-        "found": "Sharpe & Eddel",
+        "where": "Sharpe & Eddel",
         "owner": "Eddel",
         "firstchapter": 11,
     },{
@@ -116,7 +116,7 @@
         "looks": "a pair of boots",
         "power": "The wearer can jump fifty feet.",
         "bound": "unbound",
-        "found": "Sharpe & Eddel",
+        "where": "Sharpe & Eddel",
         "owner": "Eddel",
         "firstchapter": 11,
     },{
@@ -124,7 +124,7 @@
         "looks": "a pair of earrings, jet black in the center with silver swirls around the outside",
         "power": "slightly improved, omnidirectional hearing",
         "bound": "Bethany",
-        "found": "Bethany's Possesion",
+        "where": "Bethany's Possesion",
         "owner": "Bethany",
         "firstchapter": 17,
     },{
@@ -132,7 +132,7 @@
         "looks": "a wooden staff, so natural that it might have been possible to mistake for a branch",
         "power": "The staff can change in length, and it ehances the wielder's balance.",
         "bound": "unbound",
-        "found": "Traeg's Knob Dungeon",
+        "where": "Traeg's Knob Dungeon",
         "owner": "Mizuki",
         "firstchapter": 24,
     },{
@@ -140,7 +140,7 @@
         "looks": "a sword covered in seaweed, rust, and barnacles, with the metal chipped and cracked",
         "power": "The sword is constantly damp, and it lets the wielder breathe underwater.",
         "bound": "???",
-        "found": "Traeg's Knob Dungeon",
+        "where": "Traeg's Knob Dungeon",
         "owner": "???",
         "firstchapter": 24,
     },{
@@ -148,7 +148,7 @@
         "looks": "a piece of large oak furniture with a curious dial set into its front",
         "power": "After the dial is set, the interior of the wardrobe opens a one-way portal to an adjacent hex.",
         "bound": "unbound",
-        "found": "Traeg's Knob Dungeon",
+        "where": "Traeg's Knob Dungeon",
         "owner": "The Party, though kept in the Pucklechurch.",
         "firstchapter": 24,
     },{
@@ -156,7 +156,7 @@
         "looks": "a big coin, almost a big across as a hand",
         "power": "It's fun to flip.",
         "bound": "???",
-        "found": "Traeg's Knob Dungeon",
+        "where": "Traeg's Knob Dungeon",
         "owner": "???",
         "firstchapter": 25,
     },{
@@ -164,7 +164,7 @@
         "looks": "a rope",
         "power": "The rope slides in place with the ends moving.",
         "bound": "???",
-        "found": "Traeg's Knob Dungeon",
+        "where": "Traeg's Knob Dungeon",
         "owner": "???",
         "firstchapter": 25,
     },{
@@ -172,15 +172,15 @@
         "looks": "a pair of goggles",
         "power": "Let's the wearer see inside of people, and highlights the parts of their body that have been magicically changed.",
         "bound": "???",
-        "found": "Traeg's Knob Dungeon",
+        "where": "Traeg's Knob Dungeon",
         "owner": "???",
         "firstchapter": 25,
     },{
         "name": "Rock Garden",
         "looks": "a pale rock with lots of holes",
-        "power": "It allows access to an extradimensional space which can be used to store organic material and stone.",
+        "power": "It allows access to an extra-dimensional space which can be used to store organic material and stone.",
         "bound": "unbound",
-        "found": "Traeg's Knob Dungeon",
+        "where": "Traeg's Knob Dungeon",
         "owner": "The Party",
         "firstchapter": 25,
     },{
@@ -188,7 +188,7 @@
         "looks": "a dagger,
         "power": "It lets you know how aware of you someone is.",
         "bound": "???",
-        "found": "Traeg's Knob Dungeon",
+        "where": "Traeg's Knob Dungeon",
         "owner": "???",
         "firstchapter": 25,
     },{
@@ -196,7 +196,7 @@
         "looks": "DESCRIPTION",
         "power": "DESCRIPTION",
         "bound": "PERSONBOUNDTO",
-        "found": "PLACEFIRSTSEEN",
+        "where": "PLACEFIRSTSEEN",
         "owner": "CURRENTOWNER",
         "firstchapter": CHAPTERNUM,
     },{
@@ -204,7 +204,7 @@
         "looks": "DESCRIPTION",
         "power": "DESCRIPTION",
         "bound": "PERSONBOUNDTO",
-        "found": "PLACEFIRSTSEEN",
+        "where": "PLACEFIRSTSEEN",
         "owner": "CURRENTOWNER",
         "firstchapter": CHAPTERNUM,
     },{
@@ -212,7 +212,7 @@
         "looks": "DESCRIPTION",
         "power": "DESCRIPTION",
         "bound": "PERSONBOUNDTO",
-        "found": "PLACEFIRSTSEEN",
+        "where": "PLACEFIRSTSEEN",
         "owner": "CURRENTOWNER",
         "firstchapter": CHAPTERNUM,
     },{
@@ -220,7 +220,7 @@
         "looks": "DESCRIPTION",
         "power": "DESCRIPTION",
         "bound": "PERSONBOUNDTO",
-        "found": "PLACEFIRSTSEEN",
+        "where": "PLACEFIRSTSEEN",
         "owner": "CURRENTOWNER",
         "firstchapter": CHAPTERNUM,
     },{
@@ -228,7 +228,7 @@
         "looks": "DESCRIPTION",
         "power": "DESCRIPTION",
         "bound": "PERSONBOUNDTO",
-        "found": "PLACEFIRSTSEEN",
+        "where": "PLACEFIRSTSEEN",
         "owner": "CURRENTOWNER",
         "firstchapter": CHAPTERNUM,
     },{
@@ -236,7 +236,7 @@
         "looks": "an ordinary flower pot",
         "power": "When the bottom is tapped twice, it lets out a beam of concentrated light that can blast halfway through a city.",
         "bound": "???",
-        "found": "Mentioned",
+        "where": "Mentioned",
         "owner": "???",
         "firstchapter": 6,
     },{
@@ -244,7 +244,7 @@
         "looks": "a rod",
         "power": "It allows whoever holds it to teleport anywhere they can think of as often as they please.",
         "bound": "unbound",
-        "found": "mentioned",
+        "where": "mentioned",
         "owner": "???",
         "firstchapter": 21,
     },{
@@ -252,7 +252,7 @@
         "looks": "a statue",
         "power": "Alfric's mom can teleport to it from anywhere in the world.",
         "bound": "Ria",
-        "found": "mentioned",
+        "where": "mentioned",
         "owner": "Ria",
         "firstchapter": 21,
     },{
@@ -260,7 +260,7 @@
         "looks": "NA",
         "power": "Allows the wielder to teleport from one fountain to another.",
         "bound": "NA",
-        "found": "hypothetical",
+        "where": "hypothetical",
         "owner": "NA",
         "firstchapter": 21,
     },{
@@ -268,7 +268,7 @@
         "looks": "???",
         "power": "Gave gills to Alfric's Uncle",
         "bound": "???",
-        "found": "mentioned",
+        "where": "mentioned",
         "owner": "Alfric's Uncle",
         "firstchapter": 22,
     },{
@@ -276,7 +276,7 @@
         "looks": "a table, nearly four feet across, six feet long",
         "power": "The surface of the table forms a map of the region, including 3d terrain.",
         "bound": "unbound",
-        "found": "mentioned",
+        "where": "mentioned",
         "owner": "one of the Dondrian hexmasters",
         "firstchapter": 25,
     },{
@@ -284,7 +284,7 @@
         "looks": "a cloche (tableware cover)",
         "power": "When the cloche is list, you'll find a hot meal waiting for you.",
         "bound": "unbound",
-        "found": "mentioned",
+        "where": "mentioned",
         "owner": "Verity's Family",
         "firstchapter": 25,
     },{
@@ -292,7 +292,7 @@
         "looks": "DESCRIPTION",
         "power": "DESCRIPTION",
         "bound": "PERSONBOUNDTO",
-        "found": "PLACEFIRSTSEEN",
+        "where": "PLACEFIRSTSEEN",
         "owner": "CURRENTOWNER",
         "firstchapter": CHAPTERNUM,
     },{
@@ -300,7 +300,7 @@
         "looks": "DESCRIPTION",
         "power": "DESCRIPTION",
         "bound": "PERSONBOUNDTO",
-        "found": "PLACEFIRSTSEEN",
+        "where": "PLACEFIRSTSEEN",
         "owner": "CURRENTOWNER",
         "firstchapter": CHAPTERNUM,
     },
