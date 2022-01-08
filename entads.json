@@ -64,6 +64,14 @@
         "owner": "Izra",
         "firstchapter": 6
     },{
+        "name": "The Flower Pot",
+        "looks": "an ordinary flower pot",
+        "power": "When the bottom is tapped twice, it lets out a beam of concentrated light that can blast halfway through a city.",
+        "bound": "???",
+        "where": "Mentioned",
+        "owner": "???",
+        "firstchapter": 6
+    },{
         "name": "Mergan's Monocle",
         "looks": "a monocle with a green lens",
         "power": "It allows the wearer to read other languages.",
@@ -128,6 +136,38 @@
         "owner": "Bethany",
         "firstchapter": 17
     },{
+        "name": "The Warp Wand",
+        "looks": "a rod",
+        "power": "It allows whoever holds it to teleport anywhere they can think of as often as they please.",
+        "bound": "unbound",
+        "where": "mentioned",
+        "owner": "???",
+        "firstchapter": 21
+    },{
+        "name": "Recall Statue",
+        "looks": "a statue",
+        "power": "Alfric's mom can teleport to it from anywhere in the world.",
+        "bound": "Ria",
+        "where": "mentioned",
+        "owner": "Ria",
+        "firstchapter": 21
+    },{
+        "name": "Pond Hopper",
+        "looks": "NA",
+        "power": "Allows the wielder to teleport from one fountain to another.",
+        "bound": "NA",
+        "where": "hypothetical",
+        "owner": "NA",
+        "firstchapter": 21
+    },{
+        "name": "Gillgamesh",
+        "looks": "???",
+        "power": "Gave gills to Alfric's Uncle",
+        "bound": "???",
+        "where": "mentioned",
+        "owner": "Alfric's Uncle",
+        "firstchapter": 22
+    },{
         "name": "Jingu Bang Junior",
         "looks": "a wooden staff, so natural that it might have been possible to mistake for a branch",
         "power": "The staff can change in length, and it ehances the wielder's balance.",
@@ -191,7 +231,23 @@
         "where": "Traeg's Knob Dungeon",
         "owner": "???",
         "firstchapter": 25
-    },{        
+    },{
+        "name": "Topo Table",
+        "looks": "a table, nearly four feet across, six feet long",
+        "power": "The surface of the table forms a map of the region, including 3d terrain.",
+        "bound": "unbound",
+        "where": "mentioned",
+        "owner": "one of the Dondrian hexmasters",
+        "firstchapter": 25
+    },{
+        "name": "Instadinner",
+        "looks": "a cloche (tableware cover)",
+        "power": "When the cloche is lifted, you'll find a hot meal waiting for you.",
+        "bound": "unbound",
+        "where": "mentioned",
+        "owner": "Verity's Family",
+        "firstchapter": 25
+    },{
         "name": "Everpencil",
         "looks": "A pencil.",
         "power": "Never runs out of lead.",
@@ -391,61 +447,5 @@
         "where": "Hie Point Dungeon",
         "owner": "The party",
         "firstchapter": "48",
-    },{
-        "name": "The Flower Pot",
-        "looks": "an ordinary flower pot",
-        "power": "When the bottom is tapped twice, it lets out a beam of concentrated light that can blast halfway through a city.",
-        "bound": "???",
-        "where": "Mentioned",
-        "owner": "???",
-        "firstchapter": 6
-    },{
-        "name": "The Warp Wand",
-        "looks": "a rod",
-        "power": "It allows whoever holds it to teleport anywhere they can think of as often as they please.",
-        "bound": "unbound",
-        "where": "mentioned",
-        "owner": "???",
-        "firstchapter": 21
-    },{
-        "name": "Recall Statue",
-        "looks": "a statue",
-        "power": "Alfric's mom can teleport to it from anywhere in the world.",
-        "bound": "Ria",
-        "where": "mentioned",
-        "owner": "Ria",
-        "firstchapter": 21
-    },{
-        "name": "Pond Hopper",
-        "looks": "NA",
-        "power": "Allows the wielder to teleport from one fountain to another.",
-        "bound": "NA",
-        "where": "hypothetical",
-        "owner": "NA",
-        "firstchapter": 21
-    },{
-        "name": "Gillgamesh",
-        "looks": "???",
-        "power": "Gave gills to Alfric's Uncle",
-        "bound": "???",
-        "where": "mentioned",
-        "owner": "Alfric's Uncle",
-        "firstchapter": 22
-    },{
-        "name": "Topo Table",
-        "looks": "a table, nearly four feet across, six feet long",
-        "power": "The surface of the table forms a map of the region, including 3d terrain.",
-        "bound": "unbound",
-        "where": "mentioned",
-        "owner": "one of the Dondrian hexmasters",
-        "firstchapter": 25
-    },{
-        "name": "Instadinner",
-        "looks": "a cloche (tableware cover)",
-        "power": "When the cloche is lifted, you'll find a hot meal waiting for you.",
-        "bound": "unbound",
-        "where": "mentioned",
-        "owner": "Verity's Family",
-        "firstchapter": 25
     }]
 }    
