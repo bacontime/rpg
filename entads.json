@@ -192,7 +192,7 @@
         "owner": "???",
         "firstchapter": 25
     },{	
-		"name": "Everpencil",
+	"name": "Everpencil",
         "looks": "A pencil.",
         "power": "Never runs out of lead.",
         "bound": "unbound",
@@ -200,7 +200,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "Matchmaker",
+	"name": "Matchmaker",
         "looks": "A matchbox.",
         "power": "It can make matches out of plain sticks.",
         "bound": "unbound",
@@ -208,7 +208,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "???",
+	"name": "Pocket Puff",
         "looks": "A pillow.",
         "power": "Can change size.",
         "bound": "unbound",
@@ -216,7 +216,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",	
 	},{
-		"name": "Universal Dictionary",
+	"name": "Universal Dictionary",
         "looks": "A book.",
         "power": "Gives you the definition of any word spoken aloud, with made-up definitions for made-up words.",
         "bound": "unbound",
@@ -224,7 +224,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "Springblock",
+	"name": "Springblock",
         "looks": "A brick.",
         "power": "Hops around like a frog.",
         "bound": "unbound",
@@ -232,7 +232,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "???",
+	"name": "Adder All",
         "looks": "A quill.",
         "power": "Can do sums.",
         "bound": "unbound",
@@ -240,7 +240,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "Coiffeur Clip",
+	"name": "Coiffeur Clip",
         "looks": "A hair clip.",
         "power": "Can do your hair in various complicated braids.",
         "bound": "unbound",
@@ -248,7 +248,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "Armor of the Beholder",
+	"name": "Armor of the Beholder",
         "looks": "A suit of armor.",
         "power": "Anyone who strikes it will inhabit the wearer's viewpoint for one minute.",
         "bound": "unbound",
@@ -256,7 +256,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "Non-Newtonian Shirt",
+	"name": "Non-Newtonian Shirt",
         "looks": "A shirt.",
         "power": "Goes rigid as steel if you try to pierce it.",
         "bound": "unbound",
@@ -264,7 +264,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "???",
+	"name": "Grandma's Aegis",
         "looks": "A sweater.",
         "power": "Leeps you warm in a snowstorm.",
         "bound": "unbound",
@@ -272,7 +272,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "???",
+	"name": "Bug Blastin' Britches",
         "looks": "A pair of pants, only large enough for a child.",
         "power": "Kills any bug that gets within ten feet of it.",
         "bound": "unbound",
@@ -280,7 +280,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "Extendo-spear"
+	"name": "Extendo-spear"
         "looks": "Thin, red, and with a gilded tip.", 
         "power": "Extends to eight times its length, exerting force while extending, and extremely difficult to destroy."
         "bound": "unbound",
@@ -288,7 +288,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "???",
+	"name": "Jerk Dirk",
         "looks": "Like an enlarged toothpick, pointed on both ends and made of wood.",
         "power": "Penetrates the opposite side of whatever it touches and can teleport the wielder.",
         "bound": "unbound",
@@ -296,7 +296,7 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33",
 	},{
-		"name": "Fire Axe"
+	"name": "Fire Axe"
         "looks": "A giant axe."
         "power": "It can burst into flames at the head."
         "bound": "???",
@@ -304,7 +304,7 @@
         "owner": "Priya",
         "firstchapter": "35",
 	},{
-		"name": "???"
+	"name": "Better Fingers"
         "looks": "???"
         "power": "Gives the wearer better finger dexterity."
         "bound": "???",
@@ -312,7 +312,7 @@
         "owner": "Josen",
         "firstchapter": "36",
 	},{
-		"name": "Bracers of Strength",
+	"name": "Bracers of Strength",
         "looks": "A pair of bracers."
         "power": "Doubles the wearer's strength."
         "bound": "Josen",
@@ -320,7 +320,7 @@
         "owner": "Josen",
         "firstchapter": "36",
 	},{
-		"name": "???",
+	"name": "Splatter Platter",
         "looks": "A plate.",
         "power": "Can reassemble itself after being broken.",
         "bound": "???",
@@ -328,7 +328,7 @@
         "owner": "Lin",
         "firstchapter": "43",
 	},{
-		"name": "???",
+	"name": "Mercurial Aegis",
         "looks": "A silvery suit of armor with good craftsmanship but no filigree."
         "power": "Can morph itself around the weapon of the wearer, if they are wielding one, making it larger but remaining easy to wield.",
         "bound": "Hannah",
@@ -336,7 +336,7 @@
         "owner": "The party",
         "firstchapter": "48",
 	},{
-		"name": "???",
+	"name": "Wand of Refurbishment",
         "looks": "A carved wooden stick."
         "power": "Stores an object inside, and returns the object with several subtle alterations."
         "bound": "unbound",
@@ -344,7 +344,7 @@
         "owner": "The party",
         "firstchapter": "48",
 	},{
-		"name": "Stone Ring",
+	"name": "Stone Ring",
         "looks": "A ring, dark and iridescent, like a beetle's shell, with geometric lines on the outside and indecipherable writing on the inside.",
         "power": "Turns the wearer to stone.",
         "bound": "unbound",
@@ -352,7 +352,7 @@
         "owner": "The party",
         "firstchapter": "48",
 	},{
-		"name": "???",
+	"name": "Puzzling Placard",
         "looks": "A paper card with indecipherable writing on it.",
         "power": "Gives a brief description of the provenance of an item, including only the most relevant information, but the language it uses is unique to the item.",
         "bound": "unbound",
@@ -360,7 +360,7 @@
         "owner": "The party",
         "firstchapter": "48",
 	},{
-		"name": "???",
+	"name": "Tabula Rasa",
         "looks": "A wooden table.",
         "power": "???",
         "bound": "unbound",
@@ -368,7 +368,7 @@
         "owner": "The party",
         "firstchapter": "48",
 	},{
-		"name": "Blanket of Unweight",
+	"name": "Unweighted Blanket",
         "looks": "A blanket."
         "power": "Removes the weight of everything completely enclosed in it.",
         "bound": "unbound",
@@ -376,7 +376,7 @@
         "owner": "The party",
         "firstchapter": "48",
 	},{
-		"name": "???",
+	"name": "Party Peering Parchment",
         "looks": "A map with an unreadable legend.",
         "power": "When the compass rose is tapped thrice, it shows a map of the immediate area, as well as any parties within it.",
         "bound": "unbound",
@@ -384,7 +384,7 @@
         "owner": "The party",
         "firstchapter": "48",
 	},{
-		"name": "???",
+	"name": "Plutonian Poker",
         "looks": "A metal bident",
         "power": "???",
         "bound": "unbound",
