@@ -178,10 +178,10 @@
     },{
         "name": "Soggy Sword",
         "looks": "a sword covered in seaweed, rust, and barnacles, with the metal chipped and cracked",
-        "power": "The sword is constantly damp, and it lets the wielder breathe underwater.",
-        "bound": "???",
+        "power": "The sword is constantly damp, and it lets the wielder breathe water. Any water exhaled will surround the wielder as a barrier, protecting them from attacks. It only protects you from underwater attacks though, and isn't very useful as a weapon.",
+        "bound": "unbound",
         "where": "Traeg's Knob Dungeon",
-        "owner": "???",
+        "owner": "The Party",
         "firstchapter": 24
     },{
         "name": "Warping Wardrobe",
@@ -189,31 +189,31 @@
         "power": "After the dial is set, the interior of the wardrobe opens a one-way portal to an adjacent hex.",
         "bound": "unbound",
         "where": "Traeg's Knob Dungeon",
-        "owner": "The Party, though kept in the Pucklechurch.",
+        "owner": "The Party, though kept in Bethany's shop in Pucklechurch.",
         "firstchapter": 24
     },{
-        "name": "Fidget Flipper",
+        "name": "The Vibe Checking Fidget Flipper",
         "looks": "a big coin, almost a big across as a hand",
-        "power": "It's fun to flip.",
-        "bound": "???",
+        "power": "The coin gives some measure of emotional understanding of the people around you. While flipping it, it makes you feel good if the people nearby are good (for you, in some vague non-specific way), and it makes you feel bad if they are bad. Mind-reading effects are incredibly rare, so the coin is extremely valuable despite its limitations.",
+        "bound": "unbound",
         "where": "Traeg's Knob Dungeon",
-        "owner": "???",
+        "owner": "The Party",
         "firstchapter": 25
     },{
         "name": "Slipknot",
         "looks": "a rope",
         "power": "The rope slides in place with the ends moving.",
-        "bound": "???",
+        "bound": "unbound",
         "where": "Traeg's Knob Dungeon",
-        "owner": "???",
+        "owner": "The Party",
         "firstchapter": 25
     },{
         "name": "Clerical X-Ray Specs",
         "looks": "a pair of goggles",
         "power": "Let's the wearer see inside of people, and highlights the parts of their body that have been magicically changed.",
-        "bound": "???",
+        "bound": "unbound",
         "where": "Traeg's Knob Dungeon",
-        "owner": "???",
+        "owner": "The Party",
         "firstchapter": 25
     },{
         "name": "Rock Garden",
@@ -227,9 +227,9 @@
         "name": "Backstabber",
         "looks": "a dagger",
         "power": "It lets you know how aware of you someone is.",
-        "bound": "???",
+        "bound": "unbound",
         "where": "Traeg's Knob Dungeon",
-        "owner": "???",
+        "owner": "The Party",
         "firstchapter": 25
     },{
         "name": "Topo Table",
@@ -379,22 +379,22 @@
         "name": "Splatter Platter",
         "looks": "A plate.",
         "power": "Can reassemble itself after being broken.",
-        "bound": "???",
+        "bound": "unbound",
         "where": "Pucklechurch Temple",
         "owner": "Lin",
         "firstchapter": "43",
     },{
-        "name": "Mercurial Aegis",
+        "name": "Mercurial Raiment",
         "looks": "A silvery suit of armor with good craftsmanship but no filigree.",
         "power": "Can morph itself around the weapon of the wearer, if they are wielding one, making it larger but remaining easy to wield.",
         "bound": "Hannah",
         "where": "Hie Point Dungeon",
-        "owner": "The party",
+        "owner": "Hannah",
         "firstchapter": "48",
     },{
         "name": "Wand of Refurbishment",
         "looks": "A carved wooden stick.",
-        "power": "Stores an object inside, and returns the object with several subtle alterations.",
+        "power": "Stores an object inside, and returns the object with several subtle alterations. It doesn't change an entad's effect, but can interfere with active effects. Don't use it on a person; that would be murder.",
         "bound": "unbound",
         "where": "Hie Point Dungeon",
         "owner": "The party",
@@ -442,7 +442,7 @@
     },{
         "name": "Plutonian Poker",
         "looks": "A metal bident",
-        "power": "???",
+        "power": "The bident is impeccable in terms of durability, which is good, because it generates an enormous amount of power (in explosion form?) between its tips. The amount of power increases with the size of the thing which was stabbed.",
         "bound": "unbound",
         "where": "Hie Point Dungeon",
         "owner": "The party",
