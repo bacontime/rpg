@@ -365,7 +365,7 @@
         "power": "Gives the wearer better finger dexterity.",
         "bound": "???",
         "where": "mentioned",
-        "owner": "Josen",
+        "owner": "destroyed",
         "firstchapter": "36",
     },{
         "name": "Bracers of Strength",
@@ -373,7 +373,7 @@
         "power": "Doubles the wearer's strength.",
         "bound": "Josen",
         "where": "mentioned",
-        "owner": "Josen",
+        "owner": "destroyed",
         "firstchapter": "36",
     },{
         "name": "Splatter Platter",
