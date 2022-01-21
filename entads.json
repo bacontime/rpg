@@ -656,6 +656,14 @@
         "owner": "The Overguards",
         "firstchapter": 64,
     },{
+        "name": "Marsh's Marvelous Marble",
+        "looks": "a marble",
+        "power": "When Marsh wishes it, the marble grows warm. If someone then squeezes the marble, an animated temporary tattoo of Marsh appears on their arm, which can be used to remotely communicate with Marsh.",
+        "bound": "Marsh",
+        "where": "Hannah's Possesion",
+        "owner": "Marsh",
+        "firstchapter": 65,
+    },{
         "name": "The Milk Juggernaut",
         "looks": "a jug",
         "power": "It has the ability to make milk, but in such great quantities that it's one of the most valuable entads in the city.",
