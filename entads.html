@@ -1,87 +1,95 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>TUTBAD Entads</title>
-    <style>
-    /*:root{
-        --bodybg: #282a36;
-        --cardbg:#44475a;
-        --cardtext:#f8f8f2;
-        --titlebg:#6272a4;
-        --titletext:#ffb86c;
-    }*/
-    :root{
-        --bodybg: #10361a;
-        --cardbg:#164e3d;
-        --cardtext:#c2d2ec;
-        --h1bg:#134a60;
-        --h2bg:#134a60;
-        --titletext:#b3b8f3;
-    }
-      body {
-        margin: 0;
-        background-color: var(--bodybg);
-      }
-      header {
-        background-color: var(--h1bg);
-        height: 100px;
-      }
+<head>
+<meta charset="utf-8">
+<title>TUTBAD Entads</title>
+<style>
+/*Spooky HALLOWEEN mode:
+  :root{
+    --bodybg: #282a36;
+    --cardbg:#44475a;
+    --cardtext:#f8f8f2;
+    --titlebg:#6272a4;
+    --titletext:#ffb86c;
+}*/
+:root{
+    --bodybg: #10361a;
+    --cardbg:#164e3d;
+    --cardtext:#c2d2ec;
+    --h1bg:#134a60;
+    --h2bg:#134a60;
+    --titletext:#b3b8f3;
+}
+  body {
+    margin: 0;
+    background-color: var(--bodybg);
+  }
+  header {
+    background-color: var(--h1bg);
+    height: 100px;
+  }
 
-    h1 {
-        line-height: 100px;
-        text-align: center;
-        margin: 0;
-        color: var(--titletext);
-    }
+h1 {
+    line-height: 100px;
+    text-align: center;
+    margin: 0;
+    color: var(--titletext);
+}
 
-    h2 {
-        text-align: center;
-        margin: 0;
-        padding: 10px;
-        color: var(--titletext);
-        background-color: var(--h2bg);
-    }
+h2 {
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    color: var(--titletext);
+    background-color: var(--h2bg);
+}
 
-      article {
-        padding: 0;
-        margin: 10px;
-        background-color: var(--cardbg);
-        color: var(--cardtext);
-        flex: 20em;
-      }
-      
+  article {
+    padding: 0;
+    margin: 10px;
+    background-color: var(--cardbg);
+    color: var(--cardtext);
+    flex: 20em;
+  }
 
-    section {
-        display: flex;
-        flex-wrap: wrap;
-    }
 
-    dl {
-        padding: 10px;
-        margin: 0px;
-        font-size: .9rem;
-    }
-    dt {
-        font-weight: bold;
-        color: var(--titletext);
-    }
-    dd {
-        margin-bottom: 1em;
-    }
-    </style>
-  </head>
-  <body>
-    <header>
-      <h1>Tutbad Entads</h1>
-    </header>
+section {
+    display: flex;
+    flex-wrap: wrap;
+}
 
-    <section id="Big Burrito">
+dl {
+    padding: 10px;
+    margin: 0px;
+    font-size: .9rem;
+}
+dt {
+    font-weight: bold;
+    color: var(--titletext);
+}
+dd {
+    margin-bottom: 1em;
+}
+</style>
+</head>
+<body>
+<header>
+    <h1>Tutbad Entads</h1>
+</header>
 
-    </section>
+
+
+<section id="Big Burrito">
+  There should be some entads here.
+</section>
+
+
+
+
+
 
 <script>
-
+  
 entads = []  
 fetch('entads.json')
   .then(response => response.json())
@@ -99,15 +107,6 @@ function makecard(entad) {
     cardstring += "</dl></article>\n";
     return(cardstring);
 }
-  
-  
-
-
-
-
-
-
-
 </script>
-  </body>
+</body>
 </html>
