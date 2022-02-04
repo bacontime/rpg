@@ -210,7 +210,7 @@
     },{
         "name": "Clerical X-Ray Specs",
         "looks": "a pair of goggles",
-        "power": "Let's the wearer see inside of people, and highlights the parts of their body that have been magicically changed.",
+        "power": "Let's the wearer see inside of people, and highlights the parts of their body that have been magically changed.",
         "bound": "unbound",
         "where": "Traeg's Knob Dungeon",
         "owner": "The Party",
@@ -528,7 +528,7 @@
         "owner": "Alfric's Father",
         "firstchapter": 55
     },{
-        "name": "NAME",
+        "name": "Wand of False Pygmalion",
         "looks": "a wand",
         "power": "When pressed to a statue of someone, the wand swaps the positions of that person and their statue.",
         "bound": "???",
@@ -818,7 +818,7 @@
     },{
         "name": "Fuccboi's Foil",
         "looks": "a long, thin rapier",
-        "power": "The rapier can be summoned one's hand with a flourish.",
+        "power": "The rapier can be summoned to one's hand with a flourish.",
         "bound": "???",
         "where": "Bertran's Possesion",
         "owner": "Bertran",
