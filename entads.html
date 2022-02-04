@@ -98,8 +98,9 @@ entads = []
 fetch('entads.json')
   .then(response => response.json())
   .then(data => {
-      contentstring = ""
-      data.entads.forEach(element => contentstring += makecard(element));
+      contentstring = "";
+      entads = data.entads;
+      entads.forEach(element => contentstring += makecard(element));
       document.getElementById("Big Burrito").innerHTML = contentstring;
   });
   
