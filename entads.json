@@ -352,6 +352,30 @@
         "owner": "Liberfell entad shop",
         "firstchapter": "33"
     },{
+        "name": "Isra's Feeding Spoon",
+        "looks": "a spoon",
+        "power": "???",
+        "bound": "unbound",
+        "where": "mentioned",
+        "owner": "stolen, along with 4 other entads",
+        "firstchapter": 34
+    },{
+        "name": "Isra's Bottled Garden",
+        "looks": "a bottle, no larger than a cabbage",
+        "power": "When a seed is dropped into it, the seed shrinks down and grows into a miniature plant within a day. Can be used to get oranges in the winter.",
+        "bound": "unbound",
+        "where": "mentioned",
+        "owner": "stolen and sold to a shop far to the east, in a town on the shore of Lake Galia",
+        "firstchapter": 34
+    },{
+        "name": "Isra's Silent Dagger",
+        "looks": "a dagger",
+        "power": "The dagger goes through the air like a whisper.",
+        "bound": "unbound",
+        "where": "mentioned",
+        "owner": "stolen, along with 4 other entads",
+        "firstchapter": 34
+    },{
         "name": "Fire Axe",
         "looks": "A giant axe.",
         "power": "It can burst into flames at the head.",
@@ -863,14 +887,6 @@
         "where": "Dondrian Central Station",
         "owner": "Dondrian Central Station",
         "firstchapter": 66
-    },{
-        "name": "Isra's Bottle",
-        "looks": "a bottle",
-        "power": "???",
-        "bound": "unbound",
-        "where": "mentioned",
-        "owner": "stolen and sold to a shop far to the east, in a town on the shore of Lake Galia",
-        "firstchapter": 69
     },{
         "name": "The Hie Dissapointment",
         "looks": "something too big to remove from a dungeon without taking it apart",
