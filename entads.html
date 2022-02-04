@@ -83,14 +83,14 @@
 <script>
 
 entads = []  
-  
 fetch('entads.json')
   .then(response => response.json())
-  .then(data => entads = data.entads);
+  .then(data => {
+      contentstring = ""
+      data.entads.forEach(element => contentstring += makecard(element));
+      document.getElementById("Big Burrito").innerHTML = contentstring;
+  });
   
-contentstring = ""
-entads.forEach(element => contentstring += makecard(element));
-document.getElementById("Big Burrito").innerHTML = contentstring;
 
 function makecard(entad) {
     cardstring = "\n<article><h2>"+entad.name+"</h2><dl>\n";
