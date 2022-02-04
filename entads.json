@@ -254,7 +254,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Matchmaker",
         "looks": "A matchbox.",
@@ -262,7 +262,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Pocket Puff",
         "looks": "A pillow.",
@@ -270,7 +270,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",        
+        "firstchapter": "33"
     },{
         "name": "Universal Dictionary",
         "looks": "A book.",
@@ -278,7 +278,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Springblock",
         "looks": "A brick.",
@@ -286,7 +286,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Adder All",
         "looks": "A quill.",
@@ -294,7 +294,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Coiffeur Clip",
         "looks": "A hair clip.",
@@ -302,7 +302,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Armor of the Beholder",
         "looks": "A suit of armor.",
@@ -310,7 +310,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Non-Newtonian Shirt",
         "looks": "A shirt.",
@@ -318,7 +318,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Grandma's Aegis",
         "looks": "A sweater.",
@@ -326,7 +326,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Bug Blastin' Britches",
         "looks": "A pair of pants, only large enough for a child.",
@@ -334,7 +334,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Extendo-spear",
         "looks": "Thin, red, and with a gilded tip.", 
@@ -342,7 +342,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Jerk Dirk",
         "looks": "Like an enlarged toothpick, pointed on both ends and made of wood.",
@@ -350,7 +350,7 @@
         "bound": "unbound",
         "where": "Liberfell entad shop",
         "owner": "Liberfell entad shop",
-        "firstchapter": "33",
+        "firstchapter": "33"
     },{
         "name": "Fire Axe",
         "looks": "A giant axe.",
@@ -358,7 +358,7 @@
         "bound": "???",
         "where": "Adventurer's League, Liberfell house",
         "owner": "Priya",
-        "firstchapter": "35",
+        "firstchapter": "35"
     },{
         "name": "Better Fingers",
         "looks": "???",
@@ -366,7 +366,7 @@
         "bound": "???",
         "where": "mentioned",
         "owner": "destroyed",
-        "firstchapter": "36",
+        "firstchapter": "36"
     },{
         "name": "Bracers of Strength",
         "looks": "A pair of bracers.",
@@ -374,7 +374,7 @@
         "bound": "Josen",
         "where": "mentioned",
         "owner": "destroyed",
-        "firstchapter": "36",
+        "firstchapter": "36"
     },{
         "name": "Splatter Platter",
         "looks": "A plate.",
@@ -382,7 +382,7 @@
         "bound": "unbound",
         "where": "Pucklechurch Temple",
         "owner": "Lin",
-        "firstchapter": "43",
+        "firstchapter": "43"
     },{
         "name": "Mercurial Raiment",
         "looks": "A silvery suit of armor with good craftsmanship but no filigree.",
@@ -390,7 +390,7 @@
         "bound": "Hannah",
         "where": "Hie Point Dungeon",
         "owner": "Hannah",
-        "firstchapter": "48",
+        "firstchapter": "48"
     },{
         "name": "Wand of Refurbishment",
         "looks": "A carved wooden stick.",
@@ -398,7 +398,7 @@
         "bound": "unbound",
         "where": "Hie Point Dungeon",
         "owner": "The party",
-        "firstchapter": "48",
+        "firstchapter": "48"
     },{
         "name": "Stone Ring",
         "looks": "A ring, dark and iridescent, like a beetle's shell, with geometric lines on the outside and indecipherable writing on the inside.",
@@ -406,7 +406,7 @@
         "bound": "unbound",
         "where": "Hie Point Dungeon",
         "owner": "The party",
-        "firstchapter": "48",
+        "firstchapter": "48"
     },{
         "name": "Puzzling Placard",
         "looks": "A paper card with indecipherable writing on it.",
@@ -414,7 +414,7 @@
         "bound": "unbound",
         "where": "Hie Point Dungeon",
         "owner": "The party",
-        "firstchapter": "48",
+        "firstchapter": "48"
     },{
         "name": "Tabula Rasa",
         "looks": "A wooden table.",
@@ -422,7 +422,7 @@
         "bound": "partybound",
         "where": "Hie Point Dungeon",
         "owner": "The party",
-        "firstchapter": "48",
+        "firstchapter": "48"
     },{
         "name": "Unweighted Blanket",
         "looks": "A blanket.",
@@ -430,7 +430,7 @@
         "bound": "partybound",
         "where": "Hie Point Dungeon",
         "owner": "The party",
-        "firstchapter": "48",
+        "firstchapter": "48"
     },{
         "name": "Party Peering Parchment",
         "looks": "A map with an unreadable legend.",
@@ -438,7 +438,7 @@
         "bound": "unbound",
         "where": "Hie Point Dungeon",
         "owner": "The party",
-        "firstchapter": "48",
+        "firstchapter": "48"
     },{
         "name": "Plutonian Poker",
         "looks": "A metal bident",
@@ -446,7 +446,7 @@
         "bound": "unbound",
         "where": "Hie Point Dungeon",
         "owner": "The party",
-        "firstchapter": "49",
+        "firstchapter": "49"
     },{
         "name": "Marsh's Marvelous Telefinglonger",
         "looks": "???",
@@ -454,7 +454,7 @@
         "bound": "???",
         "where": "Marsh's Possesion",
         "owner": "Marsh",
-        "firstchapter": 52,
+        "firstchapter": 52
     },{
         "name": "Marsh's Marvelous Swampmaker",
         "looks": "???",
@@ -462,7 +462,7 @@
         "bound": "???",
         "where": "Marsh's Possesion",
         "owner": "Marsh",
-        "firstchapter": 52,
+        "firstchapter": 52
     },{
         "name": "Ring of Bathing",
         "looks": "a ring",
@@ -470,7 +470,7 @@
         "bound": "???",
         "where": "Lola's Possesion",
         "owner": "Lola",
-        "firstchapter": 52,
+        "firstchapter": 52
     },{
         "name": "Ring of Internal Anatomy",
         "looks": "a ring",
@@ -478,7 +478,7 @@
         "bound": "???",
         "where": "Lola's Possesion",
         "owner": "Lola",
-        "firstchapter": 52,
+        "firstchapter": 52
     },{
         "name": "Reviewing Window",
         "looks": "a piece of glass",
@@ -486,7 +486,7 @@
         "bound": "???",
         "where": "mentioned",
         "owner": "Alfric's Mother",
-        "firstchapter": 53,
+        "firstchapter": 53
     },{
         "name": "Hashtag Aesthetic",
         "looks": "a chain necklace with a little twelve-sided copper pendant, paired with a mannequin",
@@ -494,7 +494,7 @@
         "bound": "unbound",
         "where": "Alfric's Father's Possesion",
         "owner": "Alfric's Father",
-        "firstchapter": 55,
+        "firstchapter": 55
     },{
         "name": "The Carver",
         "looks": "a wooden case, about as wide as a man's chest, filled with hundreds of tools",
@@ -502,7 +502,7 @@
         "bound": "???",
         "where": "Alfric's Father's Possesion",
         "owner": "Alfric's Father",
-        "firstchapter": 55,
+        "firstchapter": 55
     },{
         "name": "NAME",
         "looks": "a wand",
@@ -510,7 +510,7 @@
         "bound": "???",
         "where": "Alfric's Father's Possesion",
         "owner": "Alfric's Father",
-        "firstchapter": 55,
+        "firstchapter": 55
     },{
         "name": "Wee Alfric's Sailor Door",
         "looks": "a door of light wood stained blue, nearly teal",
@@ -518,7 +518,7 @@
         "bound": "unbound",
         "where": "The Overguard Hall",
         "owner": "The Overguards",
-        "firstchapter": 55,
+        "firstchapter": 55
     },{
         "name": "Kyrie's Creepy Voodoo Door",
         "looks": "a door",
@@ -526,7 +526,7 @@
         "bound": "unbound",
         "where": "The Overguard Hall",
         "owner": "The Overguards",
-        "firstchapter": 55,
+        "firstchapter": 55
     },{
         "name": "Prismatic Guest Rooms",
         "looks": "a door and a dial, covered in colors",
@@ -534,7 +534,7 @@
         "bound": "unbound",
         "where": "The Overguard Hall",
         "owner": "The Overguards",
-        "firstchapter": 55,
+        "firstchapter": 55
     },{
         "name": "Cozy Drudgery Portals",
         "looks": "a pair of magical doorways, or rather a quartet",
@@ -542,7 +542,7 @@
         "bound": "unbound",
         "where": "The Overguard Foyer",
         "owner": "The Overguards",
-        "firstchapter": 55,
+        "firstchapter": 55
     },{
         "name": "Red for Green Door",
         "looks": "a green doorway",
@@ -550,7 +550,7 @@
         "bound": "unbound",
         "where": "The Overguard Foyer",
         "owner": "The Overguards",
-        "firstchapter": 55,
+        "firstchapter": 55
     },{
         "name": "Huant Jaunter",
         "looks": "a red doorway",
@@ -558,7 +558,7 @@
         "bound": "unbound",
         "where": "The Overguard Foyer",
         "owner": "The Overguards",
-        "firstchapter": 55,
+        "firstchapter": 55
     },{
         "name": "The Overguard Family Vault",
         "looks": "a five-floor vault, filled with all manner of entads",
@@ -566,7 +566,7 @@
         "bound": "NA",
         "where": "The Overguard Family Vault",
         "owner": "The Overguards",
-        "firstchapter": 56,
+        "firstchapter": 56
     },{
         "name": "Plasticowl",
         "looks": "a scarf",
@@ -574,7 +574,7 @@
         "bound": "unbound",
         "where": "The Overguard Family Vault",
         "owner": "The Overguards",
-        "firstchapter": 56,
+        "firstchapter": 56
     },{
         "name": "Foggy Fedora",
         "looks": "a wide-brimmed hat",
@@ -582,7 +582,7 @@
         "bound": "unbound",
         "where": "The Overguard Family Vault",
         "owner": "The Overguards",
-        "firstchapter": 56,
+        "firstchapter": 56
     },{
         "name": "Ring of Cosmetic Alteration",
         "looks": "a ring",
@@ -590,7 +590,7 @@
         "bound": "unbound",
         "where": "The Overguard Family Vault",
         "owner": "The Overguards",
-        "firstchapter": 56,
+        "firstchapter": 56
     },{
         "name": "Macho Pancho",
         "looks": "a cloak",
@@ -598,7 +598,7 @@
         "bound": "unbound",
         "where": "The Overguard Family Vault",
         "owner": "The Overguards",
-        "firstchapter": 56,
+        "firstchapter": 56
     },{
         "name": "Cotton Hill Special",
         "looks": "???",
@@ -606,7 +606,7 @@
         "bound": "unbound",
         "where": "The Overguard Family Vault",
         "owner": "The Overguards",
-        "firstchapter": 56,
+        "firstchapter": 56
     },{
         "name": "Unbiggen Bangle",
         "looks": "a bangle",
@@ -614,7 +614,7 @@
         "bound": "unbound",
         "where": "The Overguard Family Vault",
         "owner": "The Overguards",
-        "firstchapter": 56,
+        "firstchapter": 56
     },{
         "name": "Wand of Dye",
         "looks": "a wand",
@@ -622,7 +622,7 @@
         "bound": "unbound",
         "where": "The Overguard Family Vault",
         "owner": "The Overguards",
-        "firstchapter": 56,
+        "firstchapter": 56
     },{
         "name": "Tabula Plaza",
         "looks": "A large table with a recessed dial on the size.",
@@ -630,7 +630,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Room",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "The Overguard Dining Collection",
         "looks": "a motley collection of plates, cups, glasses, mugs, bowls, platters, forks, knives, spoons, and a few things only a dungeons would ever have made for eating with",
@@ -638,7 +638,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Room",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Not-too-hot Plate",
         "looks": "a plate",
@@ -646,7 +646,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Fjork",
         "looks": "a fork",
@@ -654,7 +654,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Polite Platter",
         "looks": "a plate",
@@ -662,7 +662,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Speak 'n' Scoop",
         "looks": "a spoon",
@@ -670,7 +670,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Floating Fork",
         "looks": "a fork",
@@ -678,7 +678,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Smooth Eatin'",
         "looks": "a bowl",
@@ -686,7 +686,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Bangarang Banquet",
         "looks": "a white plate with blue glaze",
@@ -694,7 +694,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "The Alfric Overguard Diet Plan",
         "looks": "a plate",
@@ -702,7 +702,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Spice Equalizer",
         "looks": "a fork",
@@ -710,7 +710,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Picky Eater's Trick Plate",
         "looks": "a plate",
@@ -718,7 +718,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Ring of Flight",
         "looks": "a ring",
@@ -726,7 +726,7 @@
         "bound": "unbound",
         "where": "mentioned",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "The Everyfork",
         "looks": "a fork",
@@ -734,7 +734,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "The Overkill",
         "looks": "It's like a sword-shaped hole in the world, the long curved blade visible only by what is missing. It does something to the eyes, the blackness reaching into the mind, erasing any sensation of light, even for things that are in front of it.",
@@ -742,7 +742,7 @@
         "bound": "???",
         "where": "The Overguard Dining Room",
         "owner": "Alfric's mother",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Knuckle Buster Wand",
         "looks": "a wand",
@@ -750,7 +750,7 @@
         "bound": "???",
         "where": "mentioned",
         "owner": "???",
-        "firstchapter": 58,
+        "firstchapter": 58
     },{
         "name": "Modiviper",
         "looks": "a measuring tape which slithers through the air",
@@ -758,7 +758,7 @@
         "bound": "Alfric's Mother",
         "where": "The Overguard Master Closet",
         "owner": "Alfric's Mother",
-        "firstchapter": 59,
+        "firstchapter": 59
     },{
         "name": "An Embarrasment of Riches",
         "looks": "various bracelets, rings, necklaces, and earrings",
@@ -766,7 +766,7 @@
         "bound": "???",
         "where": "The Overguard Master Closet",
         "owner": "Alfric's Mother",
-        "firstchapter": 59,
+        "firstchapter": 59
     },{
         "name": "Just Five More Minutes",
         "looks": "???",
@@ -774,7 +774,7 @@
         "bound": "unbound",
         "where": "mentioned",
         "owner": "???",
-        "firstchapter": 59,
+        "firstchapter": 59
     },{
         "name": "Homermatic Cosmetics Blaster",
         "looks": "???",
@@ -782,7 +782,7 @@
         "bound": "???",
         "where": "The Overguard Master Closet",
         "owner": "Alfric's Mother",
-        "firstchapter": 59,
+        "firstchapter": 59
     },{
         "name": "The Flame Dress",
         "looks": "A red dress, one that almost seems to be made of a single large sheet of fabric, gathered together at the front so that it forms a V at the chest and a second, upside down one by the legs. It ends up with something like a cape in the back, the fabric draping low, almost touching the floor. At the shoulders there's a fluffy fabric, like non-functional pauldrons.",
@@ -790,7 +790,7 @@
         "bound": "unbound",
         "where": "The Overguard Master Closet",
         "owner": "Alfric's Mother",
-        "firstchapter": 59,
+        "firstchapter": 59
     },{
         "name": "Fuccboi's Foil",
         "looks": "a long, thin rapier",
@@ -798,7 +798,7 @@
         "bound": "???",
         "where": "Bertran's Possesion",
         "owner": "Bertran",
-        "firstchapter": 62,
+        "firstchapter": 62
     },{
         "name": "The Protection Collection",
         "looks": "a small set of rings",
@@ -806,7 +806,7 @@
         "bound": "unbound",
         "where": "Alfric's Possesion",
         "owner": "The Overguards",
-        "firstchapter": 62,
+        "firstchapter": 62
     },{
         "name": "Window on the Worlds",
         "looks": "a windowframe with two dials on the side",
@@ -814,7 +814,7 @@
         "bound": "unbound",
         "where": "The Overguard House",
         "owner": "The Overguards",
-        "firstchapter": 62,
+        "firstchapter": 62
     },{
         "name": "Tiradito Tines",
         "looks": "a two-tined fork",
@@ -822,7 +822,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 64,
+        "firstchapter": 64
     },{
         "name": "Sampler Summoning Saucer",
         "looks": "a small bowl",
@@ -830,7 +830,7 @@
         "bound": "unbound",
         "where": "The Overguard Dining Collection",
         "owner": "The Overguards",
-        "firstchapter": 64,
+        "firstchapter": 64
     },{
         "name": "Marsh's Marvelous Marble",
         "looks": "a marble",
@@ -838,7 +838,7 @@
         "bound": "Marsh",
         "where": "Hannah's Possesion",
         "owner": "Marsh",
-        "firstchapter": 65,
+        "firstchapter": 65
     },{
         "name": "The Milk Juggernaut",
         "looks": "a jug",
@@ -846,7 +846,7 @@
         "bound": "unbound",
         "where": "mentioned",
         "owner": "???",
-        "firstchapter": 65,
+        "firstchapter": 65
     },{
         "name": "Kupferkarte",
         "looks": "a copper amulet, encrusted with verdigris",
@@ -854,7 +854,7 @@
         "bound": "unbound",
         "where": "Garos District Entad Shop",
         "owner": "Garos District Entad Shop",
-        "firstchapter": 65,
+        "firstchapter": 65
     },{
         "name": "Ding Door",
         "looks": "an oversized cauldron tipped on its side",
@@ -862,7 +862,7 @@
         "bound": "unbound",
         "where": "Dondrian Central Station",
         "owner": "Dondrian Central Station",
-        "firstchapter": 66,
+        "firstchapter": 66
     },{
         "name": "Isra's Bottle",
         "looks": "a bottle",
@@ -870,7 +870,7 @@
         "bound": "unbound",
         "where": "mentioned",
         "owner": "stolen and sold to a shop far to the east, in a town on the shore of Lake Galia",
-        "firstchapter": 69,
+        "firstchapter": 69
     },{
         "name": "The Hie Dissapointment",
         "looks": "something too big to remove from a dungeon without taking it apart",
@@ -878,7 +878,7 @@
         "bound": "???",
         "where": "mentioned",
         "owner": "destroyed",
-        "firstchapter": 69,
+        "firstchapter": 69
     },{
         "name": "The Shidduchinator",
         "looks": "???",
@@ -886,7 +886,7 @@
         "bound": "???",
         "where": "mentioned",
         "owner": "???",
-        "firstchapter": 70,
+        "firstchapter": 70
     },{
         "name": "Kirtle Bow Alpha",
         "looks": "a blood-red and shiny bow, so large that it was taller than Mizuki",
@@ -894,7 +894,7 @@
         "bound": "unbound?",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party?",
-        "firstchapter": 74,
+        "firstchapter": 74
     },{
         "name": "Kirtle Bow Beta",
         "looks": "a bow made of caramel-colored wood that was sanded matte",
@@ -902,7 +902,7 @@
         "bound": "unbound?",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party?",
-        "firstchapter": 74,
+        "firstchapter": 74
     },{
         "name": "Whalloping Whatsit",
         "looks": "a wooden mallet",
@@ -910,7 +910,7 @@
         "bound": "unbound",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party",
-        "firstchapter": 74,
+        "firstchapter": 74
     },{
         "name": "Trick Arrow Bow",
         "looks": "a bow",
@@ -918,7 +918,7 @@
         "bound": "Hannah",
         "where": "Kirtle Point Dungeon",
         "owner": "Hannah",
-        "firstchapter": 74,
+        "firstchapter": 74
     },{
         "name": "Kirtle Bow Epsilon",
         "looks": "yet another bow",
@@ -926,7 +926,7 @@
         "bound": "Verity",
         "where": "Kirtle Point Dungeon",
         "owner": "Verity",
-        "firstchapter": 74,
+        "firstchapter": 74
     },{
         "name": "Fjork 2: Fjork to the Max",
         "looks": "a fork",
@@ -934,7 +934,7 @@
         "bound": "unbound",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party",
-        "firstchapter": 75,
+        "firstchapter": 75
     },{
         "name": "Freezing Fork",
         "looks": "a fork",
@@ -942,7 +942,7 @@
         "bound": "unbound",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party",
-        "firstchapter": 75,
+        "firstchapter": 75
     },{
         "name": "Bashfully Big Bowl",
         "looks": "a bowl",
@@ -950,7 +950,7 @@
         "bound": "unbound",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party",
-        "firstchapter": 75,
+        "firstchapter": 75
     },{
         "name": "Party Platter",
         "looks": "a plate",
@@ -958,7 +958,7 @@
         "bound": "partybound",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party",
-        "firstchapter": 75,
+        "firstchapter": 75
     },{
         "name": "Spear of Conscientious Objection",
         "looks": "a spear",
@@ -966,7 +966,7 @@
         "bound": "NA",
         "where": "hypothetical",
         "owner": "NA",
-        "firstchapter": 75,
+        "firstchapter": 75
     },{
         "name": "Cuppy Cup Cupperson",
         "looks": "a cup",
@@ -974,7 +974,7 @@
         "bound": "NA",
         "where": "hypothetical",
         "owner": "NA",
-        "firstchapter": 75,
+        "firstchapter": 75
     },{
         "name": "NAME",
         "looks": "LOOKS",
@@ -982,6 +982,6 @@
         "bound": "WHO",
         "where": "FOUND",
         "owner": "OWNER",
-        "firstchapter": 000,
+        "firstchapter": 000
     }]
-}    
+}
