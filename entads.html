@@ -71,6 +71,11 @@ dt {
 dd {
     margin-bottom: 1em;
 }
+small {
+    text-align: center;
+    display: block;
+}
+  
 </style>
 </head>
 <body>
@@ -106,12 +111,23 @@ fetch('entads.json')
   
 
 function makecard(entad) {
+  
+    if (['unbound', '???', 'NA', 'unbound?', 'WHO'].includes(entad.bound)) {
+        boundstring = "";
+    } else if (entad.bound == "partybound") {
+        boundstring = "<small>Bound to The Party</small>";
+    } else {
+        boundstring = "<small>Bound to "+entad.bound+"</small>";
+    }
+      
     cardstring = "\n<article><h2>"+entad.name+"</h2><dl>\n";
     cardstring += "<dt>Appearance:</dt><dd>"+entad.looks+"</dd>\n";
     cardstring += "<dt>Magical Powers:</dt><dd>"+entad.power+"</dd>\n";
-    cardstring += "</dl></article>\n";
+    cardstring += "</dl>"+boundstring+"</article>\n";
     return(cardstring);
 }
+  
+
 </script>
 </body>
 </html>
