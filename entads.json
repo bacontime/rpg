@@ -570,7 +570,7 @@
     },{
         "name": "Red for Green Door",
         "looks": "a green doorway",
-        "power": "The doorway acts a magical portal between two distant locations. The remain functioning, it requires a monthly goat sacrifice.",
+        "power": "The doorway acts a magical portal between two distant locations. To remain functioning, it requires a monthly goat sacrifice.",
         "bound": "unbound",
         "where": "The Overguard Foyer",
         "owner": "The Overguards",
