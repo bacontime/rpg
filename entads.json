@@ -904,25 +904,25 @@
         "owner": "???",
         "firstchapter": 70
     },{
-        "name": "Kirtle Bow Alpha",
-        "looks": "a blood-red and shiny bow, so large that it was taller than Mizuki",
-        "power": "???",
+        "name": "Rusty Arrow Bow",
+        "looks": "a blood-red and shiny bow, so large that it was taller than Mizuki(?)",
+        "power": "It rusts things the arrows strike.(?)",
         "bound": "unbound?",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party?",
         "firstchapter": 74
     },{
-        "name": "Kirtle Bow Beta",
-        "looks": "a bow made of caramel-colored wood that was sanded matte",
-        "power": "???",
+        "name": "Envious Bow",
+        "looks": "a bow made of caramel-colored wood that was sanded matte(?)",
+        "power": "It is half as strong as the last enemy it’s killed.(?)",
         "bound": "unbound?",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party?",
         "firstchapter": 74
     },{
-        "name": "Whalloping Whatsit",
+        "name": "Hamma Barbera",
         "looks": "a wooden mallet",
-        "power": "???",
+        "power": "It flattens biological things without hurting them.",
         "bound": "unbound",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party",
@@ -936,9 +936,9 @@
         "owner": "Hannah",
         "firstchapter": 74
     },{
-        "name": "Kirtle Bow Epsilon",
+        "name": "Bow Against Arrows",
         "looks": "yet another bow",
-        "power": "???",
+        "power": "It gives a defense against arrows.(?)",
         "bound": "Verity",
         "where": "Kirtle Point Dungeon",
         "owner": "Verity",
