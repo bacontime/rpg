@@ -992,6 +992,54 @@
         "owner": "NA",
         "firstchapter": 75
     },{
+        "name": "Bow Bow Bow Bow Bow",
+        "looks": "yet another bow",
+        "power": "???",
+        "bound": "???",
+        "where": "Pate Knob Dungeon",
+        "owner": "The Party",
+        "firstchapter": 82
+    },{
+        "name": "Clean Stitch",
+        "looks": "a sewing needle",
+        "power": "When fabric is pierced with this needle, any thread attached to the needle changes to match that of the fabric.",
+        "bound": "unbound",
+        "where": "Pate Knob Dungeon",
+        "owner": "The Party",
+        "firstchapter": 82
+    },{
+        "name": "Nimble Bhimble Armor",
+        "looks": "a thimble",
+        "power": "When the thimble is placed on a thumb, it slowly expends to generate full body metal armor. The armor is supernaturally flexible and breathable, and can very slightly shift forms.",
+        "bound": "partybound",
+        "where": "Pate Knob Dungeon",
+        "owner": "The Party",
+        "firstchapter": 82
+    },{
+        "name": "Chester the Clingy Chest",
+        "looks": "a large wooden chest with clawed feet, artistically made, with tin panels on the top sides which are embossed with scenes of the conservatory",
+        "power": "It follows the party around indiscriminately. If there are no party members outside of it within five feet, it proceeds to the nearest party member at a jaunty trot. It has supernaturally sure footing, and can scale steep slopes. You can't tell it to stop following the party.",
+        "bound": "partybound",
+        "where": "Pate Knob Dungeon",
+        "owner": "The Party",
+        "firstchapter": 82
+    },{
+        "name": "Board Sword",
+        "looks": "a very large sword",
+        "power": "???",
+        "bound": "???",
+        "where": "Pate Knob Dungeon",
+        "owner": "The Party",
+        "firstchapter": 82
+    },{
+        "name": "Weightless Winged Helm",
+        "looks": "a metal helm with wingaling designs over the ears",
+        "power": "The helm renders the wearer effectively weightless, and allows the wearer to float through the air at a brisk pace.",
+        "bound": "partybound",
+        "where": "Pate Knob Dungeon",
+        "owner": "The Party",
+        "firstchapter": 82
+    },{
         "name": "NAME",
         "looks": "LOOKS",
         "power": "POWER",
