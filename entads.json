@@ -160,6 +160,14 @@
         "owner": "NA",
         "firstchapter": 21
     },{
+        "name": "Full Orchestral Lute",
+        "looks": "a lute",
+        "power": "This lute can produce the sounds of an entire symphony orchestra. Each instrument is played with skill equivalent to the wielder's skill at the lute. It's very mentally taxing to play.",
+        "bound": "unbound",
+        "where": "mentioned",
+        "owner": "some guild",
+        "firstchapter": 84
+    },{
         "name": "Gillgamesh",
         "looks": "???",
         "power": "Gave gills to Alfric's Uncle",
@@ -365,8 +373,9 @@
         "power": "When a seed is dropped into it, the seed shrinks down and grows into a miniature plant within a day. Can be used to get oranges in the winter.",
         "bound": "unbound",
         "where": "mentioned",
-        "owner": "stolen and sold to a shop far to the east, in a town on the shore of Lake Galia",
-        "firstchapter": 34
+        "owner": "Isra",
+        "firstchapter": 34,
+        "comment": "stolen and sold to a shop far to the east, in a town on the shore of Lake Galia, recovered in chapter 86"
     },{
         "name": "Isra's Silent Dagger",
         "looks": "a dagger",
@@ -877,7 +886,7 @@
         "power": "The amulet dynamically maps its surroundings out to ten feet. The map is visible only to the user, can be called up with a mental push, and mapped objects remain for 2 days. It's monochrome and low fidelity, though.",
         "bound": "unbound",
         "where": "Garos District Entad Shop",
-        "owner": "Garos District Entad Shop",
+        "owner": "destroyed",
         "firstchapter": 65
     },{
         "name": "Ding Door",
@@ -1018,16 +1027,16 @@
     },{
         "name": "Chester the Clingy Chest",
         "looks": "a large wooden chest with clawed feet, artistically made, with tin panels on the top sides which are embossed with scenes of the conservatory",
-        "power": "It follows the party around indiscriminately. If there are no party members outside of it within five feet, it proceeds to the nearest party member at a jaunty trot. It has supernaturally sure footing, and can scale steep slopes. You can't tell it to stop following the party.",
+        "power": "It follows the party around indiscriminately. If there are no party members outside of it within five feet, it proceeds to the nearest party member at a jaunty trot. It has supernaturally sure footing, and can scale steep slopes. It can travel at incredibly speeds while nimbly avoiding obstacles.",
         "bound": "partybound",
         "where": "Pate Knob Dungeon",
         "owner": "The Party",
         "firstchapter": 82
     },{
-        "name": "Board Sword",
+        "name": "Absorbing Board Sword",
         "looks": "a very large sword",
-        "power": "???",
-        "bound": "???",
+        "power": "Anything the sword touches, it can temporarily take on the attributes of, with the time lasting for a day. It can also draw in ambient conditions (air, water, heat) and later expel them, though the effect is weak.",
+        "bound": "unbound",
         "where": "Pate Knob Dungeon",
         "owner": "The Party",
         "firstchapter": 82
@@ -1039,6 +1048,159 @@
         "where": "Pate Knob Dungeon",
         "owner": "The Party",
         "firstchapter": 82
+    },{
+        "name": "Undercover Bedroom",
+        "looks": "a blanket",
+        "power": "It allows access to a very small extradimensional room. It is only just big enough for a bed, and cramped if the occupants are doing anything but laying there together, but it is cozy most of the time, and inside it, their privacy is almost absolute.",
+        "bound": "unbound",
+        "where": "Marsh's Possession",
+        "owner": "Vertex",
+        "firstchapter": 84
+    },{
+        "name": "Barely Magical Tent",
+        "looks": "a large tent, big enough for a stove, chiller, and five hammocks",
+        "power": "???",
+        "bound": "???",
+        "where": "Parked Outside of Liberfell",
+        "owner": "Vertex",
+        "firstchapter": 70
+    },{
+        "name": "Constitute Lute",
+        "looks": "a lute with eight strings",
+        "power": "It can create the sounds of eight lutes simultaneously. It self-tunes, and is waterproof and very durable.",
+        "bound": "unbound",
+        "where": "Grig's Possession",
+        "owner": "Verity",
+        "firstchapter": 84
+    },{
+        "name": "The Pile of Trifles",
+        "looks": "a collection of hundreds of entads",
+        "power": "The entads all have very minor effects.",
+        "bound": "unbound",
+        "where": "mentioned",
+        "owner": "Vertex",
+        "firstchapter": 84
+    },{
+        "name": "The Seeker of Secret's Stuff",
+        "looks": "robes so long that they seem impractical",
+        "power": "Their powers are unknown, but they might let the wearer hover slightly off of the ground.",
+        "bound": "???",
+        "where": "Cate Peregrin's Possesion",
+        "owner": "Cate Peregrin",
+        "firstchapter": 85,
+        "comment": "Cate's necklace might also be an entad."
+    },{
+        "name": "",
+        "looks": "a flute",
+        "power": "The flute can awkwardly levitate the wielder, but only while they are actively blowing into it.",
+        "bound": "unbound",
+        "where": "Liberfell entad shop",
+        "owner": "Liberfell entad shop",
+        "firstchapter": 85
+    },{
+        "name": "Blendtek Gigablender",
+        "looks": "a soup pot",
+        "power": "It instantly homogenizes anything that goes past the rim, including spoons and fingers.",
+        "bound": "unbound",
+        "where": "Callipygian Point Dungeon",
+        "owner": "The Party",
+        "firstchapter": 89
+    },{
+        "name": "",
+        "looks": "a bow",
+        "power": "",
+        "bound": "",
+        "where": "Callipygian Point Dungeon",
+        "owner": "",
+        "firstchapter": 89
+    },{
+        "name": "",
+        "looks": "a pen",
+        "power": "The pen can write on skin, with the ink staying there, indelible, for six full days.",
+        "bound": "unbound",
+        "where": "Callipygian Point Dungeon",
+        "owner": "The Party",
+        "firstchapter": 89
+    },{
+        "name": "",
+        "looks": "a dirk",
+        "power": "Anything cut with this dirk can be easily mended simply by holding the two halves together.",
+        "bound": "unbound",
+        "where": "Callipygian Point Dungeon",
+        "owner": "Hannah",
+        "firstchapter": 89
+    },{
+        "name": "",
+        "looks": "an amulet with the pattern of a sun on it",
+        "power": "Kell can teleport to the amulet twice a day. He can bring up to 150 pounds of organics and 50 pounds of inorganics.",
+        "bound": "Kell",
+        "where": "Kell's Possession",  
+        "owner": "Kell",
+        "firstchapter": 91
+    },{
+        "name": "",
+        "looks": "a metal slingshot",
+        "power": "The slingshot imparts some sort of weird physics on its projectiles, partially nullifying the effects of gravity and friction. As such, the projectiles can travel almost fifty miles. The slighshot also grants the wielder insight about where they are aiming.",
+        "bound": "unbound",
+        "where": "Kell's Possession",  
+        "owner": "Kell",
+        "firstchapter": 91
+    },{
+        "name": "",
+        "looks": "a small bottle",
+        "power": "The user can make their limbs temporarily vanish.",
+        "bound": "???",
+        "where": "Kell's Possession",  
+        "owner": "Kell",
+        "firstchapter": 91
+    },{
+        "name": "The Menger Mansion",
+        "looks": "a large cubical house with cube-shaped rooms",
+        "power": "It can create any object composed of perfect cubes, with the strengths of the entad being related to how large and perfectly composed the cubes are. The created objects are self-cleaning.",
+        "bound": "???",
+        "where": "Plenarch",
+        "owner": "Aunt Penelope",
+        "firstchapter": 95
+    },{
+        "name": "",
+        "looks": "???",
+        "power": "The wearer can change their appearance to look like anyone, as long as that person isn't the same species as the wearer.",
+        "bound": "unbound",
+        "where": "Kali's Possession",
+        "owner": "Kali Overguard",
+        "firstchapter": 95
+    },{
+        "name": "",
+        "looks": "a ring",
+        "power": "The wearer looks different in some unspecified way. Less remarkable.",
+        "bound": "unbound",
+        "where": "Pek's Possession",
+        "owner": "Pek Overguard",
+        "firstchapter": 95
+    },{
+        "name": "",
+        "looks": "a ring the size of a bracelet",
+        "power": "It extrudes protein in the form of meaty pucks.",
+        "bound": "unbound",
+        "where": "Inside the Menger Mansion",
+        "owner": "Aunt Penelope",
+        "firstchapter": 95
+    },{
+        "name": "",
+        "looks": "a brush",
+        "power": "The tip of the brush leaves summoned pasta in its wake.",
+        "bound": "unbound",
+        "where": "Inside the Menger Mansion",
+        "owner": "Aunt Penelope",
+        "firstchapter": 95
+    },{
+        "name": "",
+        "looks": "a shaker",
+        "power": "Tiny roasted vegetables fall out of the shaker and expand to full size once they land.",
+        "bound": "unbound",
+        "where": "Inside the Menger Mansion",
+        "owner": "Aunt Penelope",
+        "firstchapter": 95
     },{
         "name": "NAME",
         "looks": "LOOKS",
