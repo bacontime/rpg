@@ -923,7 +923,7 @@
     },{
         "name": "Envious Bow",
         "looks": "a bow made of caramel-colored wood that was sanded matte(?)",
-        "power": "It is half as strong as the last enemy it’s killed.(?)",
+        "power": "It is half as strong as the last enemy it has killed.(?)",
         "bound": "unbound?",
         "where": "Kirtle Point Dungeon",
         "owner": "The Party?",
@@ -1001,13 +1001,14 @@
         "owner": "NA",
         "firstchapter": 75
     },{
-        "name": "Bow Bow Bow Bow Bow",
+        "name": "Triple Shot",
         "looks": "yet another bow",
-        "power": "???",
-        "bound": "???",
+        "power": "The wielder's accuracy is enhanced. The bow simulates three shots, and makes real the one which is best.",
+        "bound": "unbound",
         "where": "Pate Knob Dungeon",
         "owner": "The Party",
-        "firstchapter": 82
+        "firstchapter": 82,
+        "comment": "As with all the entad bows, it is unclear which power is associated with which bow." 
     },{
         "name": "Clean Stitch",
         "looks": "a sewing needle",
@@ -1090,7 +1091,7 @@
         "firstchapter": 85,
         "comment": "Cate's necklace might also be an entad."
     },{
-        "name": "",
+        "name": "Frustrating Flight Flute",
         "looks": "a flute",
         "power": "The flute can awkwardly levitate the wielder, but only while they are actively blowing into it.",
         "bound": "unbound",
@@ -1106,15 +1107,15 @@
         "owner": "The Party",
         "firstchapter": 89
     },{
-        "name": "",
-        "looks": "a bow",
-        "power": "",
-        "bound": "",
+        "name": "Bowowowowow",
+        "looks": "another godsforsaken bow",
+        "power": "???",
+        "bound": "???",
         "where": "Callipygian Point Dungeon",
-        "owner": "",
+        "owner": "???",
         "firstchapter": 89
     },{
-        "name": "",
+        "name": "Week Inker",
         "looks": "a pen",
         "power": "The pen can write on skin, with the ink staying there, indelible, for six full days.",
         "bound": "unbound",
@@ -1122,7 +1123,7 @@
         "owner": "The Party",
         "firstchapter": 89
     },{
-        "name": "",
+        "name": "Reversible Blade",
         "looks": "a dirk",
         "power": "Anything cut with this dirk can be easily mended simply by holding the two halves together.",
         "bound": "unbound",
@@ -1130,7 +1131,7 @@
         "owner": "Hannah",
         "firstchapter": 89
     },{
-        "name": "",
+        "name": "Kell's Shooting Star",
         "looks": "an amulet with the pattern of a sun on it",
         "power": "Kell can teleport to the amulet twice a day. He can bring up to 150 pounds of organics and 50 pounds of inorganics.",
         "bound": "Kell",
@@ -1138,15 +1139,15 @@
         "owner": "Kell",
         "firstchapter": 91
     },{
-        "name": "",
+        "name": "Kell's Star Shooter",
         "looks": "a metal slingshot",
-        "power": "The slingshot imparts some sort of weird physics on its projectiles, partially nullifying the effects of gravity and friction. As such, the projectiles can travel almost fifty miles. The slighshot also grants the wielder insight about where they are aiming.",
+        "power": "The slingshot imparts some sort of weird physics on its projectiles, partially nullifying the effects of gravity and friction. As such, the projectiles can travel almost fifty miles. The slingshot also grants the wielder insight about where they are aiming.",
         "bound": "unbound",
         "where": "Kell's Possession",  
         "owner": "Kell",
         "firstchapter": 91
     },{
-        "name": "",
+        "name": "Bottled Arms",
         "looks": "a small bottle",
         "power": "The user can make their limbs temporarily vanish.",
         "bound": "???",
@@ -1162,7 +1163,7 @@
         "owner": "Aunt Penelope",
         "firstchapter": 95
     },{
-        "name": "",
+        "name": "Trans-species Shapeshifter",
         "looks": "???",
         "power": "The wearer can change their appearance to look like anyone, as long as that person isn't the same species as the wearer.",
         "bound": "unbound",
@@ -1170,7 +1171,7 @@
         "owner": "Kali Overguard",
         "firstchapter": 95
     },{
-        "name": "",
+        "name": "Ring of Disguise of Some Sort",
         "looks": "a ring",
         "power": "The wearer looks different in some unspecified way. Less remarkable.",
         "bound": "unbound",
@@ -1178,7 +1179,7 @@
         "owner": "Pek Overguard",
         "firstchapter": 95
     },{
-        "name": "",
+        "name": "Soylent Circlet",
         "looks": "a ring the size of a bracelet",
         "power": "It extrudes protein in the form of meaty pucks.",
         "bound": "unbound",
@@ -1186,7 +1187,7 @@
         "owner": "Aunt Penelope",
         "firstchapter": 95
     },{
-        "name": "",
+        "name": "Penne Painter",
         "looks": "a brush",
         "power": "The tip of the brush leaves summoned pasta in its wake.",
         "bound": "unbound",
@@ -1194,7 +1195,7 @@
         "owner": "Aunt Penelope",
         "firstchapter": 95
     },{
-        "name": "",
+        "name": "Magical Mirepoix Maker",
         "looks": "a shaker",
         "power": "Tiny roasted vegetables fall out of the shaker and expand to full size once they land.",
         "bound": "unbound",
