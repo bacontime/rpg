@@ -19,7 +19,7 @@ Aerb has a lot of examples of 'What if X' in its design.
 Strange locations that represent a concept stretched to its limits.
 
 FIAF
-: The continent of FIAF was created as a self-similar fractal. Mountains at one end are duplicated as hills then mounds, then motes of dust. This isn't a space-warping effect, and the fractal nature of the content isn't magically sustained, so the smallest iterations of the continent's features have been eroded into unrecognizability.
+: The continent of FIAF was created as a self-similar fractal. Mountains at one end were duplicated as hills then mounds, then motes of dust. This isn't a space-warping effect, and the fractal nature of the content isn't magically sustained, so the smallest iterations of the continent's features have been eroded into unrecognizability.
 
 Leto
 : A ring of mountains surrounds a arid, flat, isolated plateau roughly the size of Iowa. Exotic xerophile fauna live in this 'dry island' (microantelopes and sandwyrms are abundant). 
@@ -52,7 +52,7 @@ The Obcidussian Isles
 : These isles rise and fall on a yearly cycle. The low-lands are lush with life, but incredibly smelly. The grinding of stone as the island slowly moves causes a constant deep rumble.
 
 Isles of Cristatus
-: Although the remote location of these dome-shaped isles makes accurate surveys difficult, there is strong evidence that the number and size of these isles is slowly, but measurably growing. One survey of the area from 323 BE reported only a few large islands. The veracity of this report is in question, but if true, it would suggest that the growth of the isles is a faster phenomenon than is otherwise believed. The Isles of Cristatus have sparse vegetation, but are densely populated by sea birds. If a settlement were to be permanently established, the guano could be an economically valuable export.
+: Although the remote location of these dome-shaped isles makes accurate surveys difficult, there is strong evidence that the number and size of these isles is slowly, but measurably growing. One survey of the area from 323 BE reported only a few large islands. The veracity of this report is in question, but if true, it would suggest that the growth of the isles is a faster phenomenon than is otherwise believed. The Isles of Cristatus have sparse vegetation, but are densely populated by large aggressive sea birds. If a defensible settlement were to be permanently established, the guano could be an economically valuable export.
 
 Gon
 : Gon is a landmass comprised of titanic monolithic cuboids. They aren't iviolable, just composed of a variety of very durable minerals. Several areas in the seams between cuboids have accumulated enough soil to facilitate settlement, and Gon has a moderately sized export industry which quarries the exotic stone and exports slabs via bulk transportation. 
