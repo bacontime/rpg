@@ -7,47 +7,6 @@ description: A list of continents devised for my map of Aerb, for the book serie
 While the map I made is canon, many of the details below are just things I was thinking while making the map.
 So I wouldn't even call this document "semi-canon". Any details which aren't present in the actual story should be considered worldbuilding fanfic.
 
-## Continents Visited in Canon
-
-Bretaigne
-: Heart of the Empire of Common Cause. Where the story begins and where much of it takes place.
-
-Corrito
-: Another continent extensively integrated into the empire. Large portions are marred by Fel Seed's Domain.
-
-Lion's Mane
-: Not a continent proper, but rather the isthmus joining Corrito to Senol. On a train voyage across the Lion's Mane, the Party met the Tuung Princess Emomain and Magor the Dwarf.
-
-Senol
-: A warm continent filled with lush vegetation. The majority of Senol drains into the might River Boul, which flows not into the sea, but into the Boundless Pit at Headwater.
-
-Auberlo
-: A gigantic continent, with landmass on par with the entirety of Earth. Diverse geography. Home to the Spine of the World, longest and tallest mountain range on Aerb; a vast grassland north of the Yellow sea; and the largest endorheic basin on the hex, which drains into the Saltin Sea. This continent has never been the center of the empire, but many parts of it are settled, some densely so. Anglecynn in particular has a number of established sites in the Northern half of Auberlo.
-
-Widders
-: A continent that gently slopes upwards from West to East. The Eastern edge of the continent features the great vertical city of Cidium, built into a cliff-face three miles high. Although the entire continent is 'tilted', the grade is barely noticable except near the Eastern edge. And by some definitions, Widders is mathematically flatter than a pancake. <!--Technically flatter than a pancake.--> 
-
-Leche
-: Location of the Datura Desert, and Boastre Vino. Rocky terrain and mountains in places that don't quite make sense.
-
-Kerguelia
-: Home of Li'o and the Atheneum of Sound and Silence. Li'o is far from the ocean, but a quirk of the projection layer renders it warm and humid.
-
-Ankja
-: Cradle of the Second Empire, and major hotspot for exclusions<!-- as a consequence (as a consequence of both population and policy)-->. The River Jesh is the largest river in the world and spans three continents (though it could really be said to span anywhere between 1 and 4 continents, depending on how the continents are defined). <!--The extensive Jeshi waterways bring prosperity to the region, though their benefits have somewhat diminished because Exclusions now block river access to the Ocean, and the so goods must be transferred between waterways must be transferred between ship and rail.-->
-
-Fricase
-: Home to Dorisopolis and the Crooked Citadel.
-
-Pseudami
-: Home to Perisev the Wretched.
-
-Gyges
-: Another Imperially integrated continent. Home to Darili Irid and the Atheneum of Barriers. If the landmass of Jarthram is considered part of Gyges, then this continent also is home to Claw and Clocks, as well as Invreizen's temple at Frustbury.
-
-Artisinge
-: Artisinge was created as a frigid continent, covered in ice. But some 8000 years ago, a shift in the projection layer rendered the continent temperate. It is now most notable for its extensive network of freshwater lakes, including Remar Lake, which is over 1000 miles deep and, by volume, the largest body of freshwater in all of Aerb. Oral tradition is that the inhabitants of Remar were quite upset when their home was exposed to bright skies. The Amber Lands can also be found here.
-
 
 
 
@@ -103,6 +62,49 @@ Mo
 : You are not legally authorized to learn more about Mo.
 
 <!--Split Island of Fimbulos-->
+
+
+
+## Continents Visited in Canon
+
+Bretaigne
+: Heart of the Empire of Common Cause. Where the story begins and where much of it takes place.
+
+Corrito
+: Another continent extensively integrated into the empire. Large portions are marred by Fel Seed's Domain.
+
+Lion's Mane
+: Not a continent proper, but rather the isthmus joining Corrito to Senol. On a train voyage across the Lion's Mane, the Party met the Tuung Princess Emomain and Magor the Dwarf.
+
+Senol
+: A warm continent filled with lush vegetation. The majority of Senol drains into the might River Boul, which flows not into the sea, but into the Boundless Pit at Headwater.
+
+Auberlo
+: A gigantic continent, with landmass on par with the entirety of Earth. Diverse geography. Home to the Spine of the World, longest and tallest mountain range on Aerb; a vast grassland north of the Yellow sea; and the largest endorheic basin on the hex, which drains into the Saltin Sea. This continent has never been the center of the empire, but many parts of it are settled, some densely so. Anglecynn in particular has a number of established sites in the Northern half of Auberlo.
+
+Widders
+: A continent that gently slopes upwards from West to East. The Eastern edge of the continent features the great vertical city of Cidium, built into a cliff-face three miles high. Although the entire continent is 'tilted', the grade is barely noticable except near the Eastern edge. And by some definitions, Widders is mathematically flatter than a pancake. <!--Technically flatter than a pancake.--> 
+
+Leche
+: Location of the Datura Desert, and Boastre Vino. Rocky terrain and mountains in places that don't quite make sense.
+
+Kerguelia
+: Home of Li'o and the Atheneum of Sound and Silence. Li'o is far from the ocean, but a quirk of the projection layer renders it warm and humid.
+
+Ankja
+: Cradle of the Second Empire, and major hotspot for exclusions<!-- as a consequence (as a consequence of both population and policy)-->. The River Jesh is the largest river in the world and spans three continents (though it could really be said to span anywhere between 1 and 4 continents, depending on how the continents are defined). <!--The extensive Jeshi waterways bring prosperity to the region, though their benefits have somewhat diminished because Exclusions now block river access to the Ocean, and the so goods must be transferred between waterways must be transferred between ship and rail.-->
+
+Fricase
+: Home to Dorisopolis and the Crooked Citadel.
+
+Pseudami
+: Home to Perisev the Wretched.
+
+Gyges
+: Another Imperially integrated continent. Home to Darili Irid and the Atheneum of Barriers. If the landmass of Jarthram is considered part of Gyges, then this continent also is home to Claw and Clocks, as well as Invreizen's temple at Frustbury.
+
+Artisinge
+: Artisinge was created as a frigid continent, covered in ice. But some 8000 years ago, a shift in the projection layer rendered the continent temperate. It is now most notable for its extensive network of freshwater lakes, including Remar Lake, which is over 1000 miles deep and, by volume, the largest body of freshwater in all of Aerb. Oral tradition is that the inhabitants of Remar were quite upset when their home was exposed to bright skies. The Amber Lands can also be found here.
 
 
 
