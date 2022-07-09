@@ -1,8 +1,4 @@
 
-Oh, but as long as you're here, here's a few random tables:
-
-
-
 
 
 
