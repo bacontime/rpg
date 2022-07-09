@@ -4,10 +4,13 @@ description: A list of continents devised for my map of Aerb, for the book serie
 ---
 # Aerbian Landmasses
 
-While the map I made is canon, many of the details below are just things I was thinking while making the map.
+I made a map for the world of Worth the Candle, by Alexander Wales. 
+Below are some details about the fantasy continents in this world.
+
+While the map  is canon, many of the details below are just things I was thinking while making the map.
 So I wouldn't even call this document "semi-canon". Any details which aren't present in the actual story should be considered worldbuilding fanfic.
 
-
+<!--[Worth the Candle](https://www.amazon.com/Worth-Candle-Through-Adversity-Book/dp/B09QH9NW9V/)-->
 
 
 ## Impossible Geography
