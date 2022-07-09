@@ -37,7 +37,7 @@ The Ridges
 : Between the Catric and Specific Oceans lay a series of long, thin, steep mountain chains, which jut out of the sea like winding snakes. The largest of these ridges are the Hesh'al Chain, the continent of Calijo, and the Tail of Sonder, each of which is many thousands of miles in length. The most dramatic of the ridges is smaller (though still over 1000 miles in length), and is simply called "The Ridge". The Ridge looks like a sheer wall rising nearly a mile high out of the ocean. Its two sides are seperated by only a few miles, but are populated by entirely different sets of species.
 
 Limousin
-: Limousin is a variation on the same theme as the Ridges. It's a pair of impossibly long landmasses. One encircles the other. The landmasses of Limousin  much flatter than The Ridges, and can be fairly easily cross by explorers. Limousin is also notable for having an archipelago which looks oddly similar to the continent of Lewis, though not similar enough that coincidence can be entirely ruled out.
+: Limousin is a variation on the same theme as the Ridges. It's a pair of impossibly long landmasses. One encircles the other. The landmasses of Limousin  are much flatter than The Ridges, and can be fairly easily cross by explorers. Limousin is also notable for having an archipelago which looks oddly similar to the continent of Lewis, though not similar enough that coincidence can be entirely ruled out.
 
 Redland
 : The island of Redland is so named because the local ecosystem is dominated by plants with red chloroplasts instead of green. There are no major settlements on the island, as the soil isn't conducive to the growth of edible crops. But the island attracts the occasional botanist or tourist.
@@ -46,16 +46,16 @@ Greenland
 : The island of Greenland is so named because the local ecosystem is dominated by plants which are green. 
 
 Cawlswop
-: In the Cawlswop Archipelago, the rivers are wonky. There are several rivers which run from sea to sea, a river which flows in a wide loop, a river that 'splits' as it flows downhill from a single source, and a network of rivers which seem to 'breathe', periodically reversing direction. The cause of this phenomenon is currently unknown. One researcher petitioned Invreizen for answers, saying "Rivers are just water falling downhill towards the sea. Why is it that these rivers don't seem to work that way?" Invreizen responded by hurling the researcher off a cliff. 
+: In the Cawlswop Archipelago, the rivers are wonky. There are several rivers which run from sea to sea, a river which flows in a wide loop, a river that 'splits' as it flows downhill from a single source, and a network of rivers which seem to 'breathe', periodically reversing direction. The cause of this phenomenon is currently unknown, and doesn't appear to be magical in nature. One researcher petitioned Invreizen for answers, saying "Rivers are just water falling downhill towards the sea. Why is it that these rivers don't seem to work that way?" Invreizen responded by hurling the researcher off a cliff. 
 
-The Obcidussian Isles
-: These isles rise and fall on a yearly cycle. The low-lands are lush with life, but incredibly smelly. The grinding of stone as the island slowly moves causes a constant deep rumble.
+The Obciduusian Isles
+: These isles rise and fall on a yearly cycle. The low-lands are lush with life, but incredibly smelly. The grinding of stone as the island slowly moves causes a constant deep rumble. Both the high-point and low-point coastlines are marked on the map of Aerb.
 
 Isles of Cristatus
 : Although the remote location of these dome-shaped isles makes accurate surveys difficult, there is strong evidence that the number and size of these isles is slowly, but measurably growing. One survey of the area from 323 BE reported only a few large islands. The veracity of this report is in question, but if true, it would suggest that the growth of the isles is a faster phenomenon than is otherwise believed. The Isles of Cristatus have sparse vegetation, but are densely populated by large aggressive sea birds. If a defensible settlement were to be permanently established, the guano could be an economically valuable export.
 
 Gon
-: Gon is a landmass comprised of titanic monolithic cuboids. They aren't iviolable, just composed of a variety of very durable minerals. Several areas in the seams between cuboids have accumulated enough soil to facilitate settlement, and Gon has a moderately sized export industry which quarries the exotic stone and exports slabs via bulk transportation. 
+: Gon is a landmass comprised of titanic monolithic cuboids. They aren't iviolable, just composed of a variety of very durable minerals. Several areas in the seams between cuboids have accumulated enough soil to facilitate settlement, and Gon has a moderately sized industry which quarries the exotic stone and exports slabs via bulk transportation. 
 
 Lesser Silver Sea
 : Nestled between the continents of Royoso and Lewis, the Lesser Silver Sea is home to a species of salt-water-adapted fern which blankets the entire sea, almost without gap. These ferns are pale in color, and are coated with a slick oil. In calm weather, they can form a smooth silvery layer on top of the water. Hence the sea's name. It is unknown what prevents the ferns from spreading into the wide ocean. Perhaps they are dependent on some kind of mineral runoff from the neighboring continents.
