@@ -247,7 +247,7 @@ As for units of temperature, energy etc, maybe I'll figure those ou-->
 
 
 
-
+<!--
 ## Units used in TUtbAD
 
 - mile
@@ -295,7 +295,7 @@ As for units of temperature, energy etc, maybe I'll figure those ou-->
 
 
 "hexilization"
-
+-->
 
 ## Dozenal measurement systems
 
