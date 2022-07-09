@@ -60,9 +60,14 @@ Gon
 Lesser Silver Sea
 : Nestled between the continents of Royoso and Lewis, the Lesser Silver Sea is home to a species of salt-water-adapted fern which blankets the entire sea, almost without gap. These ferns are pale in color, and are coated with a slick oil. In calm weather, they can form a smooth silvery layer on top of the water. Hence the sea's name. It is unknown what prevents the ferns from spreading into the wide ocean. Perhaps they are dependent on some kind of mineral runoff from the neighboring continents.
 
-
 Mo
 : You are not legally authorized to learn more about Mo.
+
+The Lost Flying Isle
+: In the very first drafts of my map, there was a flying continent with vivid technicolor vegetation and an imprecise location. The in later drafts, the Flying Continent ended up in the margins of the page by accident. And by the final draft, I had covered it up with a legend and forgot about it. So maybe the island just decided to fly away.
+
+
+
 
 <!--Split Island of Fimbulos-->
 
