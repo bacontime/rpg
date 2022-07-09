@@ -40,7 +40,7 @@ Limousin
 : Limousin is a variation on the same theme as the Ridges. It's a pair of impossibly long landmasses. One encircles the other. The landmasses of Limousin  much flatter than The Ridges, and can be fairly easily cross by explorers. Limousin is also notable for having an archipelago which looks oddly similar to the continent of Lewis, though not similar enough that coincidence can be entirely ruled out.
 
 Redland
-: The island of Redland is so named because the local ecosystem is dominated by plants with red cholorplasts instead of green. There are no major settlements on the island, as the soil isn't conducive to the growth of edible crops. But the island attracts the occasional botanist or tourist.
+: The island of Redland is so named because the local ecosystem is dominated by plants with red chloroplasts instead of green. There are no major settlements on the island, as the soil isn't conducive to the growth of edible crops. But the island attracts the occasional botanist or tourist.
 
 Greenland
 : The island of Greenland is so named because the local ecosystem is dominated by plants which are green. 
