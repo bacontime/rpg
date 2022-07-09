@@ -2,7 +2,7 @@
 
 <!--[Periodic Table elemental planes](etymologyplanes)-->
 
-[Periodic Table elemental planes](continents)
+[Aerb Geographic Features](continents)
 
 [Entads - Minor Magical Items](entads)
 
