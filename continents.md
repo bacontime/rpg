@@ -66,6 +66,8 @@ Mo
 The Lost Flying Isle
 : In the very first drafts of my map, there was a flying continent with vivid technicolor vegetation and an imprecise location. The in later drafts, the Flying Continent ended up in the margins of the page by accident. And by the final draft, I had covered it up with a legend and forgot about it. So maybe the island just decided to fly away.
 
+The Grand Bridge
+: A Giant Bridge connecting the continents of Bretaigne and Ankja. Spanning 100s of miles of ocean.
 
 
 
