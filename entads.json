@@ -1185,7 +1185,7 @@
         "bound": "unbound",
         "where": "Inside the Menger Mansion",
         "owner": "Aunt Penelope",
-        "firstchapter": 95
+        "firstchapter": 96
     },{
         "name": "Penne Painter",
         "looks": "a brush",
@@ -1193,7 +1193,7 @@
         "bound": "unbound",
         "where": "Inside the Menger Mansion",
         "owner": "Aunt Penelope",
-        "firstchapter": 95
+        "firstchapter": 96
     },{
         "name": "Magical Mirepoix Maker",
         "looks": "a shaker",
@@ -1201,7 +1201,95 @@
         "bound": "unbound",
         "where": "Inside the Menger Mansion",
         "owner": "Aunt Penelope",
-        "firstchapter": 95
+        "firstchapter": 96
+    },{
+        "name": "Cyclical Campfire",
+        "looks": "an ordinary-looking firepit",
+        "power": "It makes flame without fuel, and the flame follows a one-minute looping pattern.",
+        "bound": "???",
+        "where": "Inside the Menger Mansion",
+        "owner": "Aunt Penelope",
+        "firstchapter": 96
+    },{
+        "name": "Angelic Vest of Flight",
+        "looks": "a vest with pure white bird's wings attached, with a wingspan of twenty feet",
+        "power": "Flight. The wings must flap, but they are magically silent.",
+        "bound": "???",
+        "where": "Marli Barker's Possesion",
+        "owner": "City Guard of Plenarch",
+        "firstchapter": 97
+    },{
+        "name": "Keep-going Quill",
+        "looks": "a quill",
+        "power": "It continues to write after the user lets go.",
+        "bound": "WHO",
+        "where": "FOUND",
+        "owner": "OWNER",
+        "firstchapter": 97
+    },{
+        "name": "Copycat of Pek's Cantrip",
+        "looks": "NA",
+        "power": "Mimic's Pek's ability to animate a tiny rock golem.",
+        "bound": "NA",
+        "where": "hypothetical",
+        "owner": "NA",
+        "firstchapter": 100
+    },{
+        "name": "Detective's Doodad",
+        "looks": "a device which has small arms protruding from it, each of which rotates around the center, like an orrery",
+        "power": "???",
+        "bound": "???",
+        "where": "Plenarch Detective's Office",
+        "owner": "Plenarch Detective",
+        "firstchapter": 101
+    },{
+        "name": "Censusmaster's Headaches",
+        "looks": "NA",
+        "power": "Various entads have the ability to interact with the census. They can pull information from it, or more rarely, alter it.",
+        "bound": "NA",
+        "where": "mentioned",
+        "owner": "NA",
+        "firstchapter": 101
+    },{
+        "name": "Poltergeist Projector",
+        "looks": "???",
+        "power": "This entad creates a pair of bubbles which 'overlap'. Someone in one of the two bubbles can see and interact with objects in the other.",
+        "bound": "unbound",
+        "where": "Sent in the mail.",
+        "owner": "Verity's Mom",
+        "firstchapter": 102
+    },{
+        "name": "Marsh's Multiple Bathing Assistants",
+        "looks": "???",
+        "power": "This set of three or four entads can all help with bathing, each in a unique but boring way.",
+        "bound": "???",
+        "where": "mentioned",
+        "owner": "Vertex",
+        "firstchapter": 103
+    },{
+        "name": "Marsh's Mangled Manuscript",
+        "looks": "a book of some kind, turned to ash by Marsh",
+        "power": "???",
+        "bound": "???",
+        "where": "mentioned",
+        "owner": "destroyed",
+        "firstchapter": 103
+    },{
+        "name": "Marsh's Meowvarleous Pet Summoner",
+        "looks": "a whistle",
+        "power": "Summons a pet. Usually Marsh's cat, but a dog is fine too.",
+        "bound": "Marsh",
+        "where": "Marsh's possession",
+        "owner": "Marsh",
+        "firstchapter": 103
+    },{
+        "name": "Marsh's Manscaper",
+        "looks": "???",
+        "power": "It can be used to grow a thick beard.",
+        "bound": "unbound",
+        "where": "mentioned",
+        "owner": "???",
+        "firstchapter": 103
     },{
         "name": "NAME",
         "looks": "LOOKS",
